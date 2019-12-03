@@ -32,3 +32,21 @@ MF0Y4-8R05K-PZNN0-VH8N2-3AA2C
 NZ43T-8D1E5-MZGV8-RU05H-3A0K5  
 0Y62K-AH05L-WZ8Q8-DU8NK-C2N4T  
 HU4ZJ-F9285-2ZD21-VJ1ZH-C2W18  
+
+<hr>
+
+# VMwareWorkstation 11
+
+* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-11.0.0-2305329.exe
+* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-11.1.0-2496824.exe
+* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-11.1.1-2771112.exe
+* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-11.1.2-2780323.exe
+* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-11.1.3-3206955.exe
+* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-11.1.4-3848939.exe
+
+注册码：  
+VF14R-2AE8L-48EUZ-1ENX9-PCKU4  
+ZZ348-6WD0M-H8DZY-16X5E-PG2T2  
+CZ3M0-6YF42-0896Z-KEMZT-Q32XA  
+UG3N0-DYZ8M-089ZP-DXZZZ-WQU94  
+YY5DR-8MF17-0812Q-ENNXT-YAH88  
