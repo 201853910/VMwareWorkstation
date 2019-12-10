@@ -51,6 +51,8 @@ CZ3M0-6YF42-0896Z-KEMZT-Q32XA
 UG3N0-DYZ8M-089ZP-DXZZZ-WQU94  
 YY5DR-8MF17-0812Q-ENNXT-YAH88  
 
+<hr>
+
 # VMwareWorkstation 12
 
 * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.0.0-2985596.exe
