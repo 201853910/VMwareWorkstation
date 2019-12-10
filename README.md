@@ -50,3 +50,27 @@ ZZ348-6WD0M-H8DZY-16X5E-PG2T2
 CZ3M0-6YF42-0896Z-KEMZT-Q32XA  
 UG3N0-DYZ8M-089ZP-DXZZZ-WQU94  
 YY5DR-8MF17-0812Q-ENNXT-YAH88  
+
+# VMwareWorkstation 12
+
+* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.0.0-2985596.exe
+* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.0.1-3160714.exe
+* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.1.0-3272444.exe
+* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.1.1-3770994.exe
+* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.0-4352439.exe
+* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.1-4542065.exe
+* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.2-4638234.exe
+* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.3-5115892.exe
+* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.4-5192485.exe
+* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.5-5234757.exe
+* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.6-5528349.exe
+* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.7-5813279.exe
+* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.8-7098237.exe
+* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.9-7535481.exe
+
+注册码：  
+YZ7R0-8FG42-H882Y-NGPGT-N2AG4  
+AU552-2HE8M-48EUZ-85NGC-NG8YD  
+FG7R8-0RG83-084QQ-QYYEZ-YA0C2  
+YZ3X8-8DX5L-M895Y-NGWZX-WK2XD  
+ZY7R2-AMY17-488JP-FQXET-Q78E6  
