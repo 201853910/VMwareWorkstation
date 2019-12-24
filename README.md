@@ -71,12 +71,30 @@ ZY7R2-AMY17-488JP-FQXET-Q78E6
 
 # VMwareWorkstation 11
 
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-11.0.0-2305329.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-11.1.0-2496824.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-11.1.1-2771112.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-11.1.2-2780323.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-11.1.3-3206955.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-11.1.4-3848939.exe
+* 11.1.4
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-11.1.4-3848939.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/11.0/VMware-workstation-full-11.1.4-3848939.exe
+  * ed2k://|file|VMware-workstation-full-11.1.4-3848939.exe|317836072|C9D0DEDEEE2A03911447886F1446EDAB|/
+* 11.1.3
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-11.1.3-3206955.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/11.0/VMware-workstation-full-11.1.3-3206955.exe
+  * ed2k://|file|VMware-workstation-full-11.1.3-3206955.exe|317611528|2C764191B3968CDB8AC88A44B5AE9813|/
+* 11.1.2
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-11.1.2-2780323.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/11.0/VMware-workstation-full-11.1.2-2780323.exe
+  * ed2k://|file|VMware-workstation-full-11.1.2-2780323.exe|317645824|838C0154C27CB192C53491AFF1754851|/
+* 11.1.1
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-11.1.1-2771112.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/11.0/VMware-workstation-full-11.1.1-2771112.exe
+  * ed2k://|file|VMware-workstation-full-11.1.1-2771112.exe|317786776|1A254C45D50EB90733496622EDEC3B9E|/
+* 11.1.0
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-11.1.0-2496824.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/11.0/VMware-workstation-full-11.1.0-2496824.exe
+  * ed2k://|file|VMware-workstation-full-11.1.0-2496824.exe|316230584|6EFB575271893503A0838C5AF5BF779E|/
+* 11.0.0
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-11.0.0-2305329.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/11.0/VMware-workstation-full-11.0.0-2305329.exe
+  * ed2k://|file|VMware-workstation-full-11.0.0-2305329.exe|322285792|31BF1FFF78FB38FB32EE7D68FE8A64D3|/
 
 注册码：  
 [VMwareWorkstation-11-KeyGen.exe](https://github.com/201853910/VMwareWorkstation/releases/download/11.0/VMwareWorkstation-11-KeyGen.exe)  
