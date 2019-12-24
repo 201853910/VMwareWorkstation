@@ -106,15 +106,25 @@ HU4ZJ-F9285-2ZD21-VJ1ZH-C2W18
 
 # VMwareWorkstation 9 
 
-* https://download2.vmware.com/software/wkst/VMware-workstation-full-9.0.0-812388.exe
+* 9.0.0
+  * https://download2.vmware.com/software/wkst/VMware-workstation-full-9.0.0-812388.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/9.0/VMware-workstation-full-9.0.0-812388.exe
   * ed2k://|file|VMware-workstation-full-9.0.0-812388.exe|446684064|07FE6A44153B949DC5BE9CFE4D4E5012|/
-* https://download2.vmware.com/software/wkst/VMware-workstation-full-9.0.1-894247.exe
+* 9.0.1
+  * https://download2.vmware.com/software/wkst/VMware-workstation-full-9.0.1-894247.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/9.0/VMware-workstation-full-9.0.1-894247.exe
   * ed2k://|file|VMware-workstation-full-9.0.1-894247.exe|445805936|272920B13F52A1C351340E8693346E3B|/
-* https://download2.vmware.com/software/wkst/VMware-workstation-full-9.0.2-1031769.exe
+* 9.0.2
+  * https://download2.vmware.com/software/wkst/VMware-workstation-full-9.0.2-1031769.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/9.0/VMware-workstation-full-9.0.2-1031769.exe
   * ed2k://|file|VMware-workstation-full-9.0.2-1031769.exe|450795904|FC8879C198B478E952B7E8895B65808D|/
-* https://download2.vmware.com/software/wkst/VMware-workstation-full-9.0.3-1410761.exe
+* 9.0.3
+  * https://download2.vmware.com/software/wkst/VMware-workstation-full-9.0.3-1410761.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/9.0/VMware-workstation-full-9.0.3-1410761.exe
   * ed2k://|file|VMware-workstation-full-9.0.3-1410761.exe|452038168|51693FA80E49B1C2F7544A978262433C|/
-* https://download2.vmware.com/software/wkst/VMware-workstation-full-9.0.4-1945795.exe
+* 9.0.4
+  * https://download2.vmware.com/software/wkst/VMware-workstation-full-9.0.4-1945795.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/9.0/VMware-workstation-full-9.0.4-1945795.exe
   * ed2k://|file|VMware-workstation-full-9.0.4-1945795.exe|499292776|81D81D14ABAEF2CDCBE209D30FB096A7|/
 
 注册码：  
