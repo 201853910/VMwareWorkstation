@@ -1,3 +1,23 @@
+# VMwareWorkstation 15
+
+* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.0.0-10134415.exe
+* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.0.1-10737736.exe
+* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.0.2-10952284.exe
+* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.0.3-12422535.exe
+* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.0.4-12990004.exe
+* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.1.0-13591040.exe
+* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.5.0-14665864.exe
+* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.5.1-15018445.exe
+
+注册码：  
+AY7DR-DCX83-48E2Y-WMPQG-MUR90  
+YA190-DMD1L-H8DPQ-DWQN9-YC8Y2  
+VG182-4XF4P-4889P-3ZWXG-XUUU2  
+VG7M2-6EDD4-M88HZ-T5MQC-X32E0  
+VZ3EH-4LG4Q-H81YQ-X7Y5G-Q7HF6  
+
+<hr>
+
 # VMwareWorkstation 14
 
 * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.0.0-6661328.exe
