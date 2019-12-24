@@ -10,6 +10,7 @@
 * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.5.1-15018445.exe
 
 注册码：  
+[VMwareWorkstation-15-KeyGen.exe](https://github.com/201853910/VMwareWorkstation/releases/download/15.0/VMwareWorkstation-15-KeyGen.exe)  
 AY7DR-DCX83-48E2Y-WMPQG-MUR90  
 YA190-DMD1L-H8DPQ-DWQN9-YC8Y2  
 VG182-4XF4P-4889P-3ZWXG-XUUU2  
@@ -32,6 +33,7 @@ VZ3EH-4LG4Q-H81YQ-X7Y5G-Q7HF6
 * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.8-14921873.exe
 
 注册码：  
+[VMwareWorkstation-14-KeyGen.exe](https://github.com/201853910/VMwareWorkstation/releases/download/14.0/VMwareWorkstation-14-KeyGen.exe)  
 AZ78K-89GDP-H898Y-LGWEC-MP8V4  
 CA1T2-AZX80-H84RY-5QN7T-YZ0YD  
 YV1D8-FYY0K-H84FQ-55PXZ-QLRCF  
@@ -58,6 +60,7 @@ VA74K-0TDD7-H89PP-75PE9-P6HZ2
 * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.9-7535481.exe
 
 注册码：  
+[VMwareWorkstation-12-KeyGen.exe](https://github.com/201853910/VMwareWorkstation/releases/download/12.0/VMwareWorkstation-12-KeyGen.exe)  
 YZ7R0-8FG42-H882Y-NGPGT-N2AG4  
 AU552-2HE8M-48EUZ-85NGC-NG8YD  
 FG7R8-0RG83-084QQ-QYYEZ-YA0C2  
@@ -76,6 +79,7 @@ ZY7R2-AMY17-488JP-FQXET-Q78E6
 * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-11.1.4-3848939.exe
 
 注册码：  
+[VMwareWorkstation-11-KeyGen.exe](https://github.com/201853910/VMwareWorkstation/releases/download/11.0/VMwareWorkstation-11-KeyGen.exe)  
 VF14R-2AE8L-48EUZ-1ENX9-PCKU4  
 ZZ348-6WD0M-H8DZY-16X5E-PG2T2  
 CZ3M0-6YF42-0896Z-KEMZT-Q32XA  
