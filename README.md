@@ -86,16 +86,33 @@ YY5DR-8MF17-0812Q-ENNXT-YAH88
 
 # VMwareWorkstation 10
 
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-10.0.0-1295980.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-10.0.1-1379776.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-10.0.2-1744117.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-10.0.3-1895310.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-10.0.4-2249910.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-10.0.5-2443746.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-10.0.6-2700073.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-10.0.7-2844087.exe
+* 10.0.0
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-10.0.0-1295980.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/10.0/VMware-workstation-full-10.0.0-1295980.exe
+* 10.0.1
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-10.0.1-1379776.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/10.0/VMware-workstation-full-10.0.1-1379776.exe
+* 10.0.2
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-10.0.2-1744117.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/10.0/VMware-workstation-full-10.0.2-1744117.exe
+* 10.0.3
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-10.0.3-1895310.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/10.0/VMware-workstation-full-10.0.3-1895310.exe
+* 10.0.4
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-10.0.4-2249910.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/10.0/VMware-workstation-full-10.0.4-2249910.exe
+* 10.0.5
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-10.0.5-2443746.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/10.0/VMware-workstation-full-10.0.5-2443746.exe
+* 10.0.6
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-10.0.6-2700073.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/10.0/VMware-workstation-full-10.0.6-2700073.exe
+* 10.0.7
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-10.0.7-2844087.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/10.0/VMware-workstation-full-10.0.7-2844087.exe
 
 注册码：  
+[VMwareWorkstation-10-KeyGen.exe](https://github.com/201853910/VMwareWorkstation/releases/download/10.0/VMwareWorkstation-10-KeyGen.exe)  
 0F4JH-80397-DZZ70-W00NK-1AC7Z  
 MF0Y4-8R05K-PZNN0-VH8N2-3AA2C  
 NZ43T-8D1E5-MZGV8-RU05H-3A0K5  
@@ -128,7 +145,7 @@ HU4ZJ-F9285-2ZD21-VJ1ZH-C2W18
   * ed2k://|file|VMware-workstation-full-9.0.4-1945795.exe|499292776|81D81D14ABAEF2CDCBE209D30FB096A7|/
 
 注册码：  
-[VMwareWorkstation-09-KeyGen.exe](https://github.com/201853910/VMwareWorkstation/releases/download/9.0/VMwareWorkstation-09-KeyGen.exe)
+[VMwareWorkstation-09-KeyGen.exe](https://github.com/201853910/VMwareWorkstation/releases/download/9.0/VMwareWorkstation-09-KeyGen.exe)   
 0V4J3-82K44-YZFD1-4107H-93RQM  
 MF2MK-28KE7-FZTQ9-JACNM-2C8QH  
 5A0PH-AY103-NZ3C1-ML0N4-02DME  
