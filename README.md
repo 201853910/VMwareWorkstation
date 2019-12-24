@@ -128,6 +128,7 @@ HU4ZJ-F9285-2ZD21-VJ1ZH-C2W18
   * ed2k://|file|VMware-workstation-full-9.0.4-1945795.exe|499292776|81D81D14ABAEF2CDCBE209D30FB096A7|/
 
 注册码：  
+* https://github.com/201853910/VMwareWorkstation/releases/download/9.0/VMwareWorkstation-09-KeyGen.exe
 0V4J3-82K44-YZFD1-4107H-93RQM  
 MF2MK-28KE7-FZTQ9-JACNM-2C8QH  
 5A0PH-AY103-NZ3C1-ML0N4-02DME  
