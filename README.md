@@ -1,13 +1,37 @@
 # VMwareWorkstation 15
 
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.0.0-10134415.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.0.1-10737736.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.0.2-10952284.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.0.3-12422535.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.0.4-12990004.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.1.0-13591040.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.5.0-14665864.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.5.1-15018445.exe
+* 15.5.1
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.5.1-15018445.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/15.0/VMware-workstation-full-15.5.1-15018445.exe
+  * ed2k://|file|VMware-workstation-full-15.5.1-15018445.exe|567449424|2EE3A6ADEF6C9A871877B798ACF6B4EF|/
+* 15.5.0
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.5.0-14665864.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/15.0/VMware-workstation-full-15.5.0-14665864.exe
+  * ed2k://|file|VMware-workstation-full-15.5.0-14665864.exe|567334736|D0733ED3C77E58BA38411B1F850D7A23|/
+* 15.1.0
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.1.0-13591040.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/15.0/VMware-workstation-full-15.1.0-13591040.exe
+  * ed2k://|file|VMware-workstation-full-15.1.0-13591040.exe|538195976|F2BF0E3E3E548CA4D8612442820CBD21|/
+* 15.0.4
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.0.4-12990004.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/15.0/VMware-workstation-full-15.0.4-12990004.exe
+  * ed2k://|file|VMware-workstation-full-15.0.4-12990004.exe|536135688|CBC82A697A7CF4A4FE5218292BD6CFF1|/
+* 15.0.3
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.0.3-12422535.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/15.0/VMware-workstation-full-15.0.3-12422535.exe
+  * ed2k://|file|VMware-workstation-full-15.0.3-12422535.exe|536188936|19C03B210DAD7304C9D9C8FDB1FCC72F|/
+* 15.0.2
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.0.2-10952284.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/15.0/VMware-workstation-full-15.0.2-10952284.exe
+  * ed2k://|file|VMware-workstation-full-15.0.2-10952284.exe|536705032|1173809E4605B07C185CD533146C4AE5|/
+* 15.0.1
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.0.1-10737736.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/15.0/VMware-workstation-full-15.0.1-10737736.exe
+  * ed2k://|file|VMware-workstation-full-15.0.1-10737736.exe|536737800|8A358CEC36F8E96499EA26FC2C917B63|/
+* 15.0.0
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.0.0-10134415.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/15.0/VMware-workstation-full-15.0.0-10134415.exe
+  * ed2k://|file|VMware-workstation-full-15.0.0-10134415.exe|536606728|3B4C1D07A863C352086B81889644F467|/
 
 注册码：  
 [VMwareWorkstation-15-KeyGen.exe](https://github.com/201853910/VMwareWorkstation/releases/download/15.0/VMwareWorkstation-15-KeyGen.exe)  
@@ -74,20 +98,62 @@ VA74K-0TDD7-H89PP-75PE9-P6HZ2
 
 # VMwareWorkstation 12
 
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.0.0-2985596.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.0.1-3160714.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.1.0-3272444.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.1.1-3770994.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.0-4352439.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.1-4542065.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.2-4638234.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.3-5115892.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.4-5192485.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.5-5234757.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.6-5528349.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.7-5813279.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.8-7098237.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.9-7535481.exe
+* 12.5.9
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.9-7535481.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/12.0/VMware-workstation-full-12.5.9-7535481.exe
+  * ed2k://|file|VMware-workstation-full-12.5.9-7535481.exe|420333000|A61AE3743BF4F667ED97D6851C73BDE3|/
+* 12.5.8
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.8-7098237.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/12.0/VMware-workstation-full-12.5.8-7098237.exe
+  * ed2k://|file|VMware-workstation-full-12.5.8-7098237.exe|420303816|0C9322BEFC9938E447C9416F4C9090B0|/
+* 12.5.7
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.7-5813279.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/12.0/VMware-workstation-full-12.5.7-5813279.exe
+  * ed2k://|file|VMware-workstation-full-12.5.7-5813279.exe|424592328|5BE34A634B9C476369F8E4482958385C|/
+* 12.5.6
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.6-5528349.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/12.0/VMware-workstation-full-12.5.6-5528349.exe
+  * ed2k://|file|VMware-workstation-full-12.5.6-5528349.exe|424588232|C03A7FAE59C8B900D6EF781B7B7EF2AA|/
+* 12.5.5
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.5-5234757.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/12.0/VMware-workstation-full-12.5.5-5234757.exe
+  * ed2k://|file|VMware-workstation-full-12.5.5-5234757.exe|419988424|53F2D42986A2C8A7A14CFDA4123AF305|/
+* 12.5.4
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.4-5192485.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/12.0/VMware-workstation-full-12.5.4-5192485.exe
+  * ed2k://|file|VMware-workstation-full-12.5.4-5192485.exe|419922888|B33BA35E7BD2300D7BCE96853BA70EEF|/
+* 12.5.3
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.3-5115892.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/12.0/VMware-workstation-full-12.5.3-5115892.exe
+  * ed2k://|file|VMware-workstation-full-12.5.3-5115892.exe|419966952|0FCC0609F25F2A9195B8CA4DDBEFF4E5|/
+* 12.5.2
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.2-4638234.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/12.0/VMware-workstation-full-12.5.2-4638234.exe
+  * ed2k://|file|VMware-workstation-full-12.5.2-4638234.exe|318436392|52BB5ED5C15070704D46F2192206B556|/
+* 12.5.1
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.1-4542065.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/12.0/VMware-workstation-full-12.5.1-4542065.exe
+  * ed2k://|file|VMware-workstation-full-12.5.1-4542065.exe|318420008|045E4D1AB81AD6A904476BE71522155E|/
+* 12.5.0
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.0-4352439.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/12.0/VMware-workstation-full-12.5.0-4352439.exe
+  * ed2k://|file|VMware-workstation-full-12.5.0-4352439.exe|318391336|92D80923CDFBD8C29190C355051FB373|/
+* 12.1.1
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.1.1-3770994.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/12.0/VMware-workstation-full-12.1.1-3770994.exe
+  * ed2k://|file|VMware-workstation-full-12.1.1-3770994.exe|307937320|278C5964EEFDA1C2B3ACD27F794C3BFD|/
+* 12.1.0
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.1.0-3272444.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/12.0/VMware-workstation-full-12.1.0-3272444.exe
+  * ed2k://|file|VMware-workstation-full-12.1.0-3272444.exe|307503264|93D82BB55BFD1A21FD07298187B9864F|/
+* 12.0.1
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.0.1-3160714.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/12.0/VMware-workstation-full-12.0.1-3160714.exe
+  * ed2k://|file|VMware-workstation-full-12.0.1-3160714.exe|306618528|C3912861F25C19CB4AB597B4B9AA2D2B|/
+* 12.0.0
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.0.0-2985596.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/12.0/VMware-workstation-full-12.0.0-2985596.exe
+  * ed2k://|file|VMware-workstation-full-12.0.0-2985596.exe|306299040|A06C4F7E0907FF0D3412255CAFC27FD0|/
 
 注册码：  
 [VMwareWorkstation-12-KeyGen.exe](https://github.com/201853910/VMwareWorkstation/releases/download/12.0/VMwareWorkstation-12-KeyGen.exe)  
