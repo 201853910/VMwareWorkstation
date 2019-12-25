@@ -56,11 +56,11 @@ VZ3EH-4LG4Q-H81YQ-X7Y5G-Q7HF6
 * 14.1.0
   * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.0-7370693.exe
   * https://github.com/201853910/VMwareWorkstation/releases/download/14.0/VMware-workstation-full-14.1.0-7370693.exe
-  * 
+  *  
 * 14.0.0
   * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.0.0-6661328.exe
   * https://github.com/201853910/VMwareWorkstation/releases/download/14.0/VMware-workstation-full-14.0.0-6661328.exe
-  * 
+  * ed2k://|file|VMware-workstation-full-14.0.0-6661328.exe|485401816|105BAA635821CF4F8DA33D0FECA2B98A|/
 
 注册码：  
 [VMwareWorkstation-14-KeyGen.exe](https://github.com/201853910/VMwareWorkstation/releases/download/14.0/VMwareWorkstation-14-KeyGen.exe)  
