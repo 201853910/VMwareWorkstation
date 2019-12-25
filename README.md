@@ -21,16 +21,46 @@ VZ3EH-4LG4Q-H81YQ-X7Y5G-Q7HF6
 
 # VMwareWorkstation 14
 
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.0.0-6661328.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.0-7370693.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.1-7528167.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.2-8497320.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.3-9474260.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.4-10722678.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.5-10950780.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.6-12368378.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.7-12989993.exe
-* https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.8-14921873.exe
+* 14.1.8
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.8-14921873.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/14.0/VMware-workstation-full-14.1.8-14921873.exe
+  * ed2k://|file|VMware-workstation-full-14.1.8-14921873.exe|510807088|2732070662E21BC3957C7543A5E6D568|/
+* 14.1.7
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.7-12989993.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/14.0/VMware-workstation-full-14.1.7-12989993.exe
+  * ed2k://|file|VMware-workstation-full-14.1.7-12989993.exe|510811184|A5F616EF104450539647499A289F9489|/
+* 14.1.6
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.6-12368378.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/14.0/VMware-workstation-full-14.1.6-12368378.exe
+  * ed2k://|file|VMware-workstation-full-14.1.6-12368378.exe|510802992|62F291E9998D1B3613E675DDEDA2D338|/
+* 14.1.5
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.5-10950780.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/14.0/VMware-workstation-full-14.1.5-10950780.exe
+  * ed2k://|file|VMware-workstation-full-14.1.5-10950780.exe|510791216|984E89C9FD8BD631C602D76E3B10DFB4|/
+* 14.1.4
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.4-10722678.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/14.0/VMware-workstation-full-14.1.4-10722678.exe
+  * ed2k://|file|VMware-workstation-full-14.1.4-10722678.exe|510778928|58BD0EB7C2188BD8271DED11AABCB362|/
+* 14.1.3
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.3-9474260.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/14.0/VMware-workstation-full-14.1.3-9474260.exe
+  * ed2k://|file|VMware-workstation-full-14.1.3-9474260.exe|510750264|5910C12EA18DF401C1BF01216BD06AFE|/
+* 14.1.2
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.2-8497320.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/14.0/VMware-workstation-full-14.1.2-8497320.exe
+  * ed2k://|file|VMware-workstation-full-14.1.2-8497320.exe|510737976|E20B95A3E9D42B92B1FE617156E87D4B|/
+* 14.1.1
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.1-7528167.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/14.0/VMware-workstation-full-14.1.1-7528167.exe
+  * ed2k://|file|VMware-workstation-full-14.1.1-7528167.exe|487805144|70B0D982A42978B994B78FEEB4BF1E5C|/
+* 14.1.0
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.0-7370693.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/14.0/VMware-workstation-full-14.1.0-7370693.exe
+  * 
+* 14.0.0
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.0.0-6661328.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/14.0/VMware-workstation-full-14.0.0-6661328.exe
+  * 
 
 注册码：  
 [VMwareWorkstation-14-KeyGen.exe](https://github.com/201853910/VMwareWorkstation/releases/download/14.0/VMwareWorkstation-14-KeyGen.exe)  
