@@ -56,7 +56,7 @@ VZ3EH-4LG4Q-H81YQ-X7Y5G-Q7HF6
 * 14.1.0
   * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.0-7370693.exe
   * https://github.com/201853910/VMwareWorkstation/releases/download/14.0/VMware-workstation-full-14.1.0-7370693.exe
-  *  
+  * ed2k://|file|VMware-workstation-full-14.1.0-7370693.exe|487833816|18E5F5C030CF35E31E7BC962AE7E5A9E|/
 * 14.0.0
   * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.0.0-6661328.exe
   * https://github.com/201853910/VMwareWorkstation/releases/download/14.0/VMware-workstation-full-14.0.0-6661328.exe
