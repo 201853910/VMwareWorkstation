@@ -1,10 +1,27 @@
 目录：
+* [VMwareWorkstation 16](#vmwareworkstation-16)
 * [VMwareWorkstation 15](#vmwareworkstation-15)
 * [VMwareWorkstation 14](#vmwareworkstation-14)
 * [VMwareWorkstation 12](#vmwareworkstation-12)
 * [VMwareWorkstation 11](#vmwareworkstation-11)
 * [VMwareWorkstation 10](#vmwareworkstation-10)
 * [VMwareWorkstation 9](#vmwareworkstation-9)
+
+# VMwareWorkstation 16
+
+* 16.0.0
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.0.0-16894299.exe
+  * 
+  * ed2k://|file|VMware-workstation-full-16.0.0-16894299.exe|649336112|AF7226741F984D1CFE05388761D25526|/
+
+注册码：  
+UV3TU-4AGD0-080WP-PPPNC-WARUA  
+YA7RA-F6Y46-H889Z-LZMXZ-WF8UA  
+ZV7HR-4YX17-M80EP-JDMQG-PF0RF  
+UZ70R-FTG0M-08DJQ-EWZZ9-XF2RF  
+UC3XK-8DD1J-089NP-MYPXT-QGU80  
+
+<hr>
 
 # VMwareWorkstation 15
 
