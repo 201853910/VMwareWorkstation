@@ -11,10 +11,11 @@
 
 * 16.0.0
   * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.0.0-16894299.exe
-  * 
+  * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.0.0-16894299.exe
   * ed2k://|file|VMware-workstation-full-16.0.0-16894299.exe|649336112|AF7226741F984D1CFE05388761D25526|/
 
 注册码：  
+[VMwareWorkstation-16-KeyGen.exe](https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMwareWorkstation-16-KeyGen.exe)
 UV3TU-4AGD0-080WP-PPPNC-WARUA  
 YA7RA-F6Y46-H889Z-LZMXZ-WF8UA  
 ZV7HR-4YX17-M80EP-JDMQG-PF0RF  
