@@ -8,6 +8,10 @@
 
 # VMwareWorkstation 15
 
+* 15.5.6
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.5.6-16341506.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/15.0/VMware-workstation-full-15.5.6-16341506.exe
+  * ed2k://|file|VMware-workstation-full-15.5.6-16341506.exe|579181704|E349E6F6D5ADE1B5F529164EE0B772A6|/
 * 15.5.5
   * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.5.5-16285975.exe
   * https://github.com/201853910/VMwareWorkstation/releases/download/15.0/VMware-workstation-full-15.5.5-16285975.exe
