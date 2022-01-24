@@ -9,6 +9,18 @@
 
 # VMwareWorkstation 16
 
+* 16.2.2
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.2.2-19200509.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.2.2-19200509.exe
+  * ed2k://|file|VMware-workstation-full-16.2.2-19200509.exe|645319168|2B1CCD99615B36A2969AFD4913BB8C42|/
+* 16.2.1
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.2.1-18811642.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.2.1-18811642.exe
+  * ed2k://|file|VMware-workstation-full-16.2.1-18811642.exe|645437960|342B725B10289D32343E980159E8EF50|/
+* 16.2.0
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.2.0-18760230.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.2.0-18760230.exe
+  * ed2k://|file|VMware-workstation-full-16.2.0-18760230.exe|645396992|2BAB4B10BC48BC651D8A3A0C7974BE98|/
 * 16.1.2
   * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.1.2-17966106.exe
   * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.1.2-17966106.exe
