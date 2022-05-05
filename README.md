@@ -8,7 +8,10 @@
 * [VMwareWorkstation 9](#vmwareworkstation-9)
 
 # VMwareWorkstation 16
-
+* 16.2.3
+  * https://download3.vmware.com/software/WKST-1623-WIN-New/VMware-workstation-full-16.2.3-19376536.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.2.3-19376536.exe
+  * ed2k://|file|VMware-workstation-full-16.2.3-19376536.exe|645323272|BC84031F29163B373042966355F1C959|/
 * 16.2.2
   * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.2.2-19200509.exe
   * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.2.2-19200509.exe
