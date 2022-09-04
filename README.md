@@ -7,7 +7,16 @@
 * [VMwareWorkstation 10](#vmwareworkstation-10)
 * [VMwareWorkstation 9](#vmwareworkstation-9)
 
+# 最新版本直链
+**感谢由[@taozhiyu](https://github.com/taozhiyu)发现的最新版本直链**
+* Windows：https://www.vmware.com/go/getworkstation-win
+* Linux：https://www.vmware.com/go/getworkstation-linux
+
 # VMwareWorkstation 16
+* 16.2.4
+  * https://download3.vmware.com/software/WKST-1624-WIN/VMware-workstation-full-16.2.4-20089737.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.2.4-20089737.exe
+  * ed2k://|file|VMware-workstation-full-16.2.4-20089737.exe|645480520|B8CD29E441892E67E53C148CC4672DE2|/
 * 16.2.3
   * https://download3.vmware.com/software/WKST-1623-WIN-New/VMware-workstation-full-16.2.3-19376536.exe
   * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.2.3-19376536.exe
