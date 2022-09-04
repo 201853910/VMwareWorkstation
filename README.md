@@ -1,4 +1,5 @@
 目录：
+* [最新版本直链](#最新版本直链)
 * [VMwareWorkstation 16](#vmwareworkstation-16)
 * [VMwareWorkstation 15](#vmwareworkstation-15)
 * [VMwareWorkstation 14](#vmwareworkstation-14)
