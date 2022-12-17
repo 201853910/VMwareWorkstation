@@ -1,5 +1,6 @@
 目录：
 * [最新版本直链](#最新版本直链)
+* [VMwareWorkstation 17](#vmwareworkstation-17)
 * [VMwareWorkstation 16](#vmwareworkstation-16)
 * [VMwareWorkstation 15](#vmwareworkstation-15)
 * [VMwareWorkstation 14](#vmwareworkstation-14)
@@ -13,7 +14,19 @@
 * Windows：https://www.vmware.com/go/getworkstation-win
 * Linux：https://www.vmware.com/go/getworkstation-linux
 
+<hr>
+
+# VMwareWorkstation 17
+
+* 17.0.0
+  * https://download3.vmware.com/software/WKST-1700-WIN/VMware-workstation-full-17.0.0-20800274.exe
+  * https://download3.vmware.com/software/WKST-1700-WIN/VMware-workstation-full-17.0.0-20800274.exe
+  * ed2k://|file|VMware-workstation-full-17.0.0-20800274.exe|637409472|97AE75FAA85A0745E961FB7A79FE1CA4|/
+
+<hr>
+
 # VMwareWorkstation 16
+
 * 16.2.4
   * https://download3.vmware.com/software/WKST-1624-WIN/VMware-workstation-full-16.2.4-20089737.exe
   * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.2.4-20089737.exe
