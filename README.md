@@ -17,11 +17,22 @@
 <hr>
 
 # VMwareWorkstation 17
-
+* 17.0.1
+  * https://download3.vmware.com/software/WKST-1701-WIN/VMware-workstation-full-17.0.1-21139696.exe
+  * https://github.cdnweb.icu/201853910/VMwareWorkstation/releases/download/17.0/VMware-workstation-full-17.0.1-21139696.exe
+  * ed2k://|file|VMware-workstation-full-17.0.1-21139696.exe|637236064|4C231FFCB132DC3AF18DC440570169BF|/
 * 17.0.0
   * https://download3.vmware.com/software/WKST-1700-WIN/VMware-workstation-full-17.0.0-20800274.exe
   * https://download3.vmware.com/software/WKST-1700-WIN/VMware-workstation-full-17.0.0-20800274.exe
   * ed2k://|file|VMware-workstation-full-17.0.0-20800274.exe|637409472|97AE75FAA85A0745E961FB7A79FE1CA4|/
+
+注册码：  
+[VMwareWorkstation-17-KeyGen.exe](https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMwareWorkstation-17-KeyGen.exe)  
+NV6RH-2RH50-0JD79-0T9N2-A22M2  
+4V4RR-6VH8P-HJ488-1KCNK-CYH22  
+1C4TU-D81E1-MJ4L9-0V8Q4-CA0Q8  
+1Y600-FNK9P-4J031-0A8X0-9FK54  
+HC4XR-28185-4J8X0-1U3QK-A3RMF  
 
 <hr>
 
