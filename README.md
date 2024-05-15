@@ -15,7 +15,8 @@
 * Linux：https://www.vmware.com/go/getworkstation-linux
 
 <hr>
-**若官网直链无法下载，请尝试使用迅雷。
+**若官网直链无法下载，请尝试使用迅雷。**
+**或转至 https://github.com/201853910/VMwareWorkstation/releases 下载。**
 <hr>
 # VMwareWorkstation 17
 * 17.5.1
