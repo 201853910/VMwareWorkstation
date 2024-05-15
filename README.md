@@ -22,6 +22,11 @@
 <hr>
 
 # VMwareWorkstation 17
+
+* 17.5.2
+  * https://dl.bobpony.com/software/vmware/workstation/VMware-workstation-full-17.5.2-23775571.zip
+
+
 * 17.5.1
   * https://download3.vmware.com/software/WKST-1751-WIN/VMware-workstation-full-17.5.1-23298084.exe
 
