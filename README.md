@@ -1,4 +1,15 @@
-目录：
+请注意:
+
+Windows 7 仅支持 15.5.7 及之前版本，
+
+Windows XP 仅支持 10.0.7 及之前版本。
+
+<hr>
+
+**[更新日志请点击此处](https://docs.vmware.com/cn/VMware-Workstation-Pro/index.html)**
+<hr>
+
+# 目录：
 * [最新版本直链](#最新版本直链)
 * [VMwareWorkstation 17](#vmwareworkstation-17)
 * [VMwareWorkstation 16](#vmwareworkstation-16)
@@ -16,9 +27,6 @@
 
 **若官网直链无法下载，请尝试使用迅雷。**
 
-**或转至 https://github.com/201853910/VMwareWorkstation/releases 下载。**
-
-**请注意，Windows 7 仅支持 15.5.7 及之前版本，Windows XP 仅支持 10.0.7 及之前版本。**
 <hr>
 
 # VMwareWorkstation 17
