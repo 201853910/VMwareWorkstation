@@ -17,6 +17,8 @@
 <hr>
 
 # VMwareWorkstation 17
+* 17.5.1
+  * https://download3.vmware.com/software/WKST-1751-WIN/VMware-workstation-full-17.5.1-23298084.exe
 * 17.0.2
   * https://download3.vmware.com/software/WKST-1702-WIN/VMware-workstation-full-17.0.2-21581411.exe
   * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-workstation-full-17.0.2-21581411.exe
@@ -91,6 +93,8 @@ UC3XK-8DD1J-089NP-MYPXT-QGU80
 
 # VMwareWorkstation 15
 
+* 15.5.7
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.5.7-17171714.exe
 * 15.5.6
   * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.5.6-16341506.exe
   * https://github.com/201853910/VMwareWorkstation/releases/download/15.0/VMware-workstation-full-15.5.6-16341506.exe
