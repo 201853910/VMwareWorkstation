@@ -26,7 +26,7 @@
   * https://download3.vmware.com/software/WKST-1751-WIN/VMware-workstation-full-17.5.1-23298084.exe
 
 * 17.5.0
-  * https://download3.vmware.com/software/WKST -1750-WIN/VMware-workstation-full-17.5.0-22583795.exe
+  * https://download3.vmware.com/software/WKST-1750-WIN/VMware-workstation-full-17.5.0-22583795.exe
 * 17.0.2
   * https://download3.vmware.com/software/WKST-1702-WIN/VMware-workstation-full-17.0.2-21581411.exe
   * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-workstation-full-17.0.2-21581411.exe
@@ -52,6 +52,8 @@ HC4XR-28185-4J8X0-1U3QK-A3RMF
 
 # VMwareWorkstation 16
 
+* 16.2.5
+  * https://download3.vmware.com/software/WKST-1625-WIN/VMware-workstation-full-16.2.5-20904516.exe
 * 16.2.4
   * https://download3.vmware.com/software/WKST-1624-WIN/VMware-workstation-full-16.2.4-20089737.exe
   * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.2.4-20089737.exe
