@@ -17,6 +17,8 @@
 **若官网直链无法下载，请尝试使用迅雷。**
 
 **或转至 https://github.com/201853910/VMwareWorkstation/releases 下载。**
+
+**请注意，Windows 7 仅支持 15.5.7 及之前版本，Windows XP 仅支持 10.0.7 及之前版本。**
 <hr>
 
 # VMwareWorkstation 17
