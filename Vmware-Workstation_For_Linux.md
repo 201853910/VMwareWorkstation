@@ -273,7 +273,8 @@ HU4ZJ-F9285-2ZD21-VJ1ZH-C2W18
   * https://download2.vmware.com/software/wkst/VMware-Workstation-Full-9.0.1-894247.i386.bundle  
 * 9.0.0
   * https://download2.vmware.com/software/wkst/VMware-Workstation-Full-9.0.0-812388.x86_64.bundle  
-  * https://download2.vmware.com/software/wkst/VMware-Workstation-Full-9.0.0-812388.i386.bundle  
+  * https://download2.vmware.com/software/wkst/VMware-Workstation-Full-9.0.0-812388.i386.bundle
+
 注册码：  
 [VMwareWorkstation-09-KeyGen.exe](https://github.com/201853910/VMwareWorkstation/releases/download/9.0/VMwareWorkstation-09-KeyGen.exe)   
 0V4J3-82K44-YZFD1-4107H-93RQM  
