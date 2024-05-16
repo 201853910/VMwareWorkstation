@@ -38,7 +38,7 @@ Vmware Workstation for Linux.
 * 17.0.2
   * https://download3.vmware.com/software/WKST-1702-LX/VMware-Workstation-Full-17.0.2-21581411.x86_64.bundle 
 * 17.0.1
-  * https://download3.vmware.com/software/WKST-1701-WIN/VMware-workstation-full-17.0.1-21139696.x86_64.bundle  
+  * https://download3.vmware.com/software/WKST-1701-LX/VMware-workstation-full-17.0.1-21139696.x86_64.bundle  
 * 17.0.0
   * https://download3.vmware.com/software/WKST-1700-LX/VMware-Workstation-Full-17.0.0-20800274.x86_64.bundle
 
@@ -55,7 +55,7 @@ HC4XR-28185-4J8X0-1U3QK-A3RMF
 # VMwareWorkstation 16
 
 * 16.2.5
-  * https://download3.vmware.com/software/WKST-1625-WIN/VMware-workstation-full-16.2.5-20904516.x86_64.bundle   
+  * https://download3.vmware.com/software/WKST-1625-LX/VMware-workstation-full-16.2.5-20904516.x86_64.bundle   
 * 16.2.4
   * https://download3.vmware.com/software/WKST-1624-LX/VMware-Workstation-Full-16.2.4-20089737.x86_64.bundle  
 * 16.2.3
