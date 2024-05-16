@@ -1,4 +1,19 @@
-目录：
+请注意:  
+Windows 8.1 仅支持 16.2.5 及之前版本；  
+Windows 7 仅支持 15.5.7 及之前版本；  
+Windows XP 仅支持 10.0.7 及之前版本。
+
+<hr>
+
+**[Linux 版本请点击此处](Vmware-Workstation_For_Linux.md)**  
+
+<hr>
+
+**[更新日志请点击此处](https://docs.vmware.com/cn/VMware-Workstation-Pro/index.html)**
+
+<hr>
+
+# 目录：
 * [最新版本直链](#最新版本直链)
 * [VMwareWorkstation 17](#vmwareworkstation-17)
 * [VMwareWorkstation 16](#vmwareworkstation-16)
@@ -8,15 +23,25 @@
 * [VMwareWorkstation 11](#vmwareworkstation-11)
 * [VMwareWorkstation 10](#vmwareworkstation-10)
 * [VMwareWorkstation 9](#vmwareworkstation-9)
+* [更多旧版](#更多旧版)
 
 # 最新版本直链
 **感谢由[@taozhiyu](https://github.com/taozhiyu)发现的最新版本直链**
 * Windows：https://www.vmware.com/go/getworkstation-win
-* Linux：https://www.vmware.com/go/getworkstation-linux
+* Linux：https://www.vmware.com/go/getworkstation-linux  
+
+**若官网直链无法下载，请尝试使用迅雷。**
 
 <hr>
 
 # VMwareWorkstation 17
+
+* 17.5.2
+  * https://dl.bobpony.com/software/vmware/workstation/VMware-workstation-full-17.5.2-23775571.zip  
+* 17.5.1
+  * https://download3.vmware.com/software/WKST-1751-WIN/VMware-workstation-full-17.5.1-23298084.exe
+* 17.5.0
+  * https://download3.vmware.com/software/WKST-1750-WIN/VMware-workstation-full-17.5.0-22583795.exe
 * 17.0.2
   * https://download3.vmware.com/software/WKST-1702-WIN/VMware-workstation-full-17.0.2-21581411.exe
   * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-workstation-full-17.0.2-21581411.exe
@@ -42,6 +67,8 @@ HC4XR-28185-4J8X0-1U3QK-A3RMF
 
 # VMwareWorkstation 16
 
+* 16.2.5
+  * https://download3.vmware.com/software/WKST-1625-WIN/VMware-workstation-full-16.2.5-20904516.exe  
 * 16.2.4
   * https://download3.vmware.com/software/WKST-1624-WIN/VMware-workstation-full-16.2.4-20089737.exe
   * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.2.4-20089737.exe
@@ -91,6 +118,8 @@ UC3XK-8DD1J-089NP-MYPXT-QGU80
 
 # VMwareWorkstation 15
 
+* 15.5.7
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.5.7-17171714.exe  
 * 15.5.6
   * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.5.6-16341506.exe
   * https://github.com/201853910/VMwareWorkstation/releases/download/15.0/VMware-workstation-full-15.5.6-16341506.exe
@@ -380,3 +409,8 @@ MF2MK-28KE7-FZTQ9-JACNM-2C8QH
 5A0PH-AY103-NZ3C1-ML0N4-02DME  
 NG2U6-0J01J-3ZWE8-Q11N2-CAW4H  
 1Y2DR-8Z240-NZC30-DLA56-2CAHT  
+
+<hr>  
+
+# 更多旧版
+更多旧版本请访问 https://archive.org/download/vmware-workstation-4.53-to-16.1
