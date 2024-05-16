@@ -1,7 +1,5 @@
-请注意:
-
-Windows 7 仅支持 15.5.7 及之前版本，
-
+请注意:  
+Windows 7 仅支持 15.5.7 及之前版本，  
 Windows XP 仅支持 10.0.7 及之前版本。
 
 <hr>
@@ -24,7 +22,6 @@ Windows XP 仅支持 10.0.7 及之前版本。
 **感谢由[@taozhiyu](https://github.com/taozhiyu)发现的最新版本直链**
 * Windows：https://www.vmware.com/go/getworkstation-win
 * Linux：https://www.vmware.com/go/getworkstation-linux
-
 **若官网直链无法下载，请尝试使用迅雷。**
 
 <hr>
@@ -32,12 +29,9 @@ Windows XP 仅支持 10.0.7 及之前版本。
 # VMwareWorkstation 17
 
 * 17.5.2
-  * https://dl.bobpony.com/software/vmware/workstation/VMware-workstation-full-17.5.2-23775571.zip
-
-
+  * https://dl.bobpony.com/software/vmware/workstation/VMware-workstation-full-17.5.2-23775571.zip  
 * 17.5.1
   * https://download3.vmware.com/software/WKST-1751-WIN/VMware-workstation-full-17.5.1-23298084.exe
-
 * 17.5.0
   * https://download3.vmware.com/software/WKST-1750-WIN/VMware-workstation-full-17.5.0-22583795.exe
 * 17.0.2
@@ -66,7 +60,7 @@ HC4XR-28185-4J8X0-1U3QK-A3RMF
 # VMwareWorkstation 16
 
 * 16.2.5
-  * https://download3.vmware.com/software/WKST-1625-WIN/VMware-workstation-full-16.2.5-20904516.exe
+  * https://download3.vmware.com/software/WKST-1625-WIN/VMware-workstation-full-16.2.5-20904516.exe  
 * 16.2.4
   * https://download3.vmware.com/software/WKST-1624-WIN/VMware-workstation-full-16.2.4-20089737.exe
   * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.2.4-20089737.exe
@@ -117,7 +111,7 @@ UC3XK-8DD1J-089NP-MYPXT-QGU80
 # VMwareWorkstation 15
 
 * 15.5.7
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.5.7-17171714.exe
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.5.7-17171714.exe  
 * 15.5.6
   * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.5.6-16341506.exe
   * https://github.com/201853910/VMwareWorkstation/releases/download/15.0/VMware-workstation-full-15.5.6-16341506.exe
