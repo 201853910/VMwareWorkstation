@@ -5,6 +5,8 @@ Windows XP 仅支持 10.0.7 及之前版本。
 <hr>
 
 **[更新日志请点击此处](https://docs.vmware.com/cn/VMware-Workstation-Pro/index.html)**
+
+[Linux 版本请点击此处](vmware workstation for linux.md)
 <hr>
 
 # 目录：
@@ -21,7 +23,8 @@ Windows XP 仅支持 10.0.7 及之前版本。
 # 最新版本直链
 **感谢由[@taozhiyu](https://github.com/taozhiyu)发现的最新版本直链**
 * Windows：https://www.vmware.com/go/getworkstation-win
-* Linux：https://www.vmware.com/go/getworkstation-linux
+* Linux：https://www.vmware.com/go/getworkstation-linux  
+
 **若官网直链无法下载，请尝试使用迅雷。**
 
 <hr>
