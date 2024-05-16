@@ -55,23 +55,23 @@ HC4XR-28185-4J8X0-1U3QK-A3RMF
 # VMwareWorkstation 16
 
 * 16.2.5
-  * https://download3.vmware.com/software/WKST-1625-LX/VMware-workstation-full-16.2.5-20904516.x86_64.bundle   
+  * https://download3.vmware.com/software/WKST-1625-LX/VMware-Workstation-Full-16.2.5-20904516.x86_64.bundle   
 * 16.2.4
   * https://download3.vmware.com/software/WKST-1624-LX/VMware-Workstation-Full-16.2.4-20089737.x86_64.bundle  
 * 16.2.3
   * https://download3.vmware.com/software/WKST-1623-LX-New/VMware-Workstation-Full-16.2.3-19376536.x86_64.bundle  
 * 16.2.2
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.2.2-19200509.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-16.2.2-19200509.x86_64.bundle  
 * 16.2.1
   * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-16.2.1-18811642.x86_64.bundle  
 * 16.2.0
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.2.0-18760230.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-16.2.0-18760230.x86_64.bundle  
 * 16.1.2
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.1.2-17966106.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-16.1.2-17966106.x86_64.bundle  
 * 16.1.1
   * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-16.1.1-17801498.x86_64.bundle  
 * 16.1.0
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.1.0-17198959.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-16.1.0-17198959.x86_64.bundle  
 * 16.0.0
   * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-16.0.0-16894299.x86_64.bundle  
 
@@ -88,23 +88,23 @@ UC3XK-8DD1J-089NP-MYPXT-QGU80
 # VMwareWorkstation 15
 
 * 15.5.7
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.5.7-17171714.x86_64.bundle   
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-15.5.7-17171714.x86_64.bundle   
 * 15.5.6
   * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-15.5.6-16341506.x86_64.bundle
 * 15.5.5
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.5.5-16285975.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-15.5.5-16285975.x86_64.bundle  
 * 15.5.2
   * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-15.5.2-15785246.x86_64.bundle  
 * 15.5.1
   * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-15.5.1-15018445.x86_64.bundle  
 * 15.5.0
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.5.0-14665864.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-15.5.0-14665864.x86_64.bundle  
 * 15.1.0
   * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-15.1.0-13591040.x86_64.bundle  
 * 15.0.4
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.0.4-12990004.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-15.0.4-12990004.x86_64.bundle  
 * 15.0.3
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.0.3-12422535.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-15.0.3-12422535.x86_64.bundle  
 * 15.0.2
   * http://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-15.0.2-10952284.x86_64.bundle  
 * 15.0.1
@@ -125,25 +125,25 @@ VZ3EH-4LG4Q-H81YQ-X7Y5G-Q7HF6
 # VMwareWorkstation 14
 
 * 14.1.8
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.8-14921873.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-14.1.8-14921873.x86_64.bundle  
 * 14.1.7
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.7-12989993.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-14.1.7-12989993.x86_64.bundle  
 * 14.1.6
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.6-12368378.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-14.1.6-12368378.x86_64.bundle  
 * 14.1.5
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.5-10950780.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-14.1.5-10950780.x86_64.bundle  
 * 14.1.4
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.4-10722678.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-14.1.4-10722678.x86_64.bundle  
 * 14.1.3
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.3-9474260.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-14.1.3-9474260.x86_64.bundle  
 * 14.1.2
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.2-8497320.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-14.1.2-8497320.x86_64.bundle  
 * 14.1.1
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.1-7528167.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-14.1.1-7528167.x86_64.bundle  
 * 14.1.0
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.0-7370693.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-14.1.0-7370693.x86_64.bundle  
 * 14.0.0
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.0.0-6661328.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-14.0.0-6661328.x86_64.bundle  
 
 注册码：  
 [VMwareWorkstation-14-KeyGen.exe](https://github.com/201853910/VMwareWorkstation/releases/download/14.0/VMwareWorkstation-14-KeyGen.exe)  
@@ -158,33 +158,33 @@ VA74K-0TDD7-H89PP-75PE9-P6HZ2
 # VMwareWorkstation 12
 
 * 12.5.9
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.9-7535481.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-12.5.9-7535481.x86_64.bundle  
 * 12.5.8
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.8-7098237.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-12.5.8-7098237.x86_64.bundle  
 * 12.5.7
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.7-5813279.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-12.5.7-5813279.x86_64.bundle  
 * 12.5.6
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.6-5528349.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-12.5.6-5528349.x86_64.bundle  
 * 12.5.5
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.5-5234757.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-12.5.5-5234757.x86_64.bundle  
 * 12.5.4
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.4-5192485.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-12.5.4-5192485.x86_64.bundle  
 * 12.5.3
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.3-5115892.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-12.5.3-5115892.x86_64.bundle  
 * 12.5.2
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.2-4638234.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-12.5.2-4638234.x86_64.bundle  
 * 12.5.1
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.1-4542065.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-12.5.1-4542065.x86_64.bundle  
 * 12.5.0
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.0-4352439.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-12.5.0-4352439.x86_64.bundle  
 * 12.1.1
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.1.1-3770994.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-12.1.1-3770994.x86_64.bundle  
 * 12.1.0
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.1.0-3272444.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-12.1.0-3272444.x86_64.bundle  
 * 12.0.1
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.0.1-3160714.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-12.0.1-3160714.x86_64.bundle  
 * 12.0.0
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.0.0-2985596.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-12.0.0-2985596.x86_64.bundle  
 
 注册码：  
 [VMwareWorkstation-12-KeyGen.exe](https://github.com/201853910/VMwareWorkstation/releases/download/12.0/VMwareWorkstation-12-KeyGen.exe)  
@@ -199,17 +199,17 @@ ZY7R2-AMY17-488JP-FQXET-Q78E6
 # VMwareWorkstation 11
 
 * 11.1.4
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-11.1.4-3848939.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-11.1.4-3848939.x86_64.bundle  
 * 11.1.3
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-11.1.3-3206955.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-11.1.3-3206955.x86_64.bundle  
 * 11.1.2
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-11.1.2-2780323.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-11.1.2-2780323.x86_64.bundle  
 * 11.1.1
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-11.1.1-2771112.x86_64.bundle  
+  * This version has not been officially released  
 * 11.1.0
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-11.1.0-2496824.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-11.1.0-2496824.x86_64.bundle  
 * 11.0.0
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-11.0.0-2305329.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-11.0.0-2305329.x86_64.bundle  
 
 注册码：  
 [VMwareWorkstation-11-KeyGen.exe](https://github.com/201853910/VMwareWorkstation/releases/download/11.0/VMwareWorkstation-11-KeyGen.exe)  
@@ -224,21 +224,28 @@ YY5DR-8MF17-0812Q-ENNXT-YAH88
 # VMwareWorkstation 10
 
 * 10.0.7
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-10.0.7-2844087.x86_64.bundle  
+  * This version has not been officially released
 * 10.0.6
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-10.0.6-2700073.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-10.0.6-2700073.x86_64.bundle
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-10.0.6-2700073.i386.bundle  
 * 10.0.5
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-10.0.5-2443746.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-10.0.5-2443746.x86_64.bundle
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-10.0.5-2443746.i386.bundle  
 * 10.0.4
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-10.0.4-2249910.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-10.0.4-2249910.x86_64.bundle
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-10.0.4-2249910.i386.bundle  
 * 10.0.3
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-10.0.3-1895310.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-10.0.3-1895310.x86_64.bundle
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-10.0.3-1895310.i386.bundle  
 * 10.0.2
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-10.0.2-1744117.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-10.0.2-1744117.x86_64.bundle
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-10.0.2-1744117.i386.bundle  
 * 10.0.1
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-10.0.1-1379776.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-10.0.1-1379776.x86_64.bundle
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-10.0.1-1379776.i386.bundle  
 * 10.0.0
-  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-10.0.0-1295980.x86_64.bundle  
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-10.0.0-1295980.x86_64.bundle
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-10.0.0-1295980.i386.bundle  
 
 注册码：  
 [VMwareWorkstation-10-KeyGen.exe](https://github.com/201853910/VMwareWorkstation/releases/download/10.0/VMwareWorkstation-10-KeyGen.exe)  
@@ -253,16 +260,20 @@ HU4ZJ-F9285-2ZD21-VJ1ZH-C2W18
 # VMwareWorkstation 9 
 
 * 9.0.4
-  * https://download2.vmware.com/software/wkst/VMware-workstation-full-9.0.4-1945795.x86_64.bundle  
+  * https://download2.vmware.com/software/wkst/VMware-Workstation-Full-9.0.4-1945795.x86_64.bundle
+  * https://download2.vmware.com/software/wkst/VMware-Workstation-Full-9.0.4-1945795.i386.bundle  
 * 9.0.3
-  * https://download2.vmware.com/software/wkst/VMware-workstation-full-9.0.3-1410761.x86_64.bundle  
+  * https://download2.vmware.com/software/wkst/VMware-Workstation-Full-9.0.3-1410761.x86_64.bundle
+  * https://download2.vmware.com/software/wkst/VMware-Workstation-Full-9.0.3-1410761.i386.bundle  
 * 9.0.2
-  * https://download2.vmware.com/software/wkst/VMware-workstation-full-9.0.2-1031769.x86_64.bundle  
+  * https://download2.vmware.com/software/wkst/VMware-Workstation-Full-9.0.2-1031769.x86_64.bundle
+  * https://download2.vmware.com/software/wkst/VMware-Workstation-Full-9.0.2-1031769.i386.bundle  
 * 9.0.1
-  * https://download2.vmware.com/software/wkst/VMware-workstation-full-9.0.1-894247.x86_64.bundle  
+  * https://download2.vmware.com/software/wkst/VMware-Workstation-Full-9.0.1-894247.x86_64.bundle
+  * https://download2.vmware.com/software/wkst/VMware-Workstation-Full-9.0.1-894247.i386.bundle  
 * 9.0.0
-  * https://download2.vmware.com/software/wkst/VMware-workstation-full-9.0.0-812388.x86_64.bundle  
-
+  * https://download2.vmware.com/software/wkst/VMware-Workstation-Full-9.0.0-812388.x86_64.bundle  
+  * https://download2.vmware.com/software/wkst/VMware-Workstation-Full-9.0.0-812388.i386.bundle  
 注册码：  
 [VMwareWorkstation-09-KeyGen.exe](https://github.com/201853910/VMwareWorkstation/releases/download/9.0/VMwareWorkstation-09-KeyGen.exe)   
 0V4J3-82K44-YZFD1-4107H-93RQM  
