@@ -4,9 +4,12 @@ Windows XP 仅支持 10.0.7 及之前版本。
 
 <hr>
 
+[Linux 版本请点击此处](Vmware-Workstation_For_Linux.md)  
+
+<hr>
+
 **[更新日志请点击此处](https://docs.vmware.com/cn/VMware-Workstation-Pro/index.html)**
 
-[Linux 版本请点击此处](vmware workstation for linux.md)
 <hr>
 
 # 目录：
