@@ -1,10 +1,10 @@
-Vmware Workstation for Linux.  
-[Windows Please Click Here](README.md)
+VmwareWorkstation for Linux.  
+**[Windows Version Please Click Here](README.md)**
 
 
 <hr>
 
-**[Vmwawre Workstation Updatelog](https://docs.vmware.com/cn/VMware-Workstation-Pro/index.html)**  
+**[VmwawreWorkstation Updatelog](https://docs.vmware.com/cn/VMware-Workstation-Pro/index.html)**  
 
 <hr>
 
@@ -21,7 +21,7 @@ Vmware Workstation for Linux.
 * [More Versions](#more-versions)
 
 # The Last Build
-**Thanks for [@taozhiyu](https://github.com/taozhiyu) find the Download Link**
+**Thanks for [@taozhiyu](https://github.com/taozhiyu) find the Download Link.**
 * Windows：https://www.vmware.com/go/getworkstation-win
 * Linux：https://www.vmware.com/go/getworkstation-linux
 
@@ -30,7 +30,8 @@ Vmware Workstation for Linux.
 # VMwareWorkstation 17
 
 * 17.5.2
-  * https://dl.bobpony.com/software/vmware/workstation/linux/VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle  
+  * https://dl.bobpony.com/software/vmware/workstation/linux/VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle
+#### **Starting from version 17.5.2, VMware Workstation Pro is available for free use by individual users.**
 * 17.5.1
   * https://download3.vmware.com/software/WKST-1751-LX/VMware-Workstation-Full-17.5.1-23298084.x86_64.bundle  
 * 17.5.0
@@ -42,7 +43,7 @@ Vmware Workstation for Linux.
 * 17.0.0
   * https://download3.vmware.com/software/WKST-1700-LX/VMware-Workstation-Full-17.0.0-20800274.x86_64.bundle
 
-注册码：  
+License Code:   
 [VMwareWorkstation-17-KeyGen.exe](https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMwareWorkstation-17-KeyGen.exe)  
 NV6RH-2RH50-0JD79-0T9N2-A22M2  
 4V4RR-6VH8P-HJ488-1KCNK-CYH22  
@@ -75,7 +76,7 @@ HC4XR-28185-4J8X0-1U3QK-A3RMF
 * 16.0.0
   * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-16.0.0-16894299.x86_64.bundle  
 
-注册码：  
+License Code:   
 [VMwareWorkstation-16-KeyGen.exe](https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMwareWorkstation-16-KeyGen.exe)  
 UV3TU-4AGD0-080WP-PPPNC-WARUA  
 YA7RA-F6Y46-H889Z-LZMXZ-WF8UA  
@@ -112,7 +113,7 @@ UC3XK-8DD1J-089NP-MYPXT-QGU80
 * 15.0.0
   * http://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-15.0.0-10134415.x86_64.bundle  
 
-注册码：  
+License Code:   
 [VMwareWorkstation-15-KeyGen.exe](https://github.com/201853910/VMwareWorkstation/releases/download/15.0/VMwareWorkstation-15-KeyGen.exe)  
 AY7DR-DCX83-48E2Y-WMPQG-MUR90  
 YA190-DMD1L-H8DPQ-DWQN9-YC8Y2  
@@ -145,7 +146,7 @@ VZ3EH-4LG4Q-H81YQ-X7Y5G-Q7HF6
 * 14.0.0
   * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-14.0.0-6661328.x86_64.bundle  
 
-注册码：  
+License Code:   
 [VMwareWorkstation-14-KeyGen.exe](https://github.com/201853910/VMwareWorkstation/releases/download/14.0/VMwareWorkstation-14-KeyGen.exe)  
 AZ78K-89GDP-H898Y-LGWEC-MP8V4  
 CA1T2-AZX80-H84RY-5QN7T-YZ0YD  
@@ -186,7 +187,7 @@ VA74K-0TDD7-H89PP-75PE9-P6HZ2
 * 12.0.0
   * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-12.0.0-2985596.x86_64.bundle  
 
-注册码：  
+License Code:   
 [VMwareWorkstation-12-KeyGen.exe](https://github.com/201853910/VMwareWorkstation/releases/download/12.0/VMwareWorkstation-12-KeyGen.exe)  
 YZ7R0-8FG42-H882Y-NGPGT-N2AG4  
 AU552-2HE8M-48EUZ-85NGC-NG8YD  
@@ -205,13 +206,13 @@ ZY7R2-AMY17-488JP-FQXET-Q78E6
 * 11.1.2
   * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-11.1.2-2780323.x86_64.bundle  
 * 11.1.1
-  * This version has not been officially released  
+  * This version has not been officially released.  
 * 11.1.0
   * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-11.1.0-2496824.x86_64.bundle  
 * 11.0.0
   * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-11.0.0-2305329.x86_64.bundle  
 
-注册码：  
+License Code:   
 [VMwareWorkstation-11-KeyGen.exe](https://github.com/201853910/VMwareWorkstation/releases/download/11.0/VMwareWorkstation-11-KeyGen.exe)  
 VF14R-2AE8L-48EUZ-1ENX9-PCKU4  
 ZZ348-6WD0M-H8DZY-16X5E-PG2T2  
@@ -224,7 +225,7 @@ YY5DR-8MF17-0812Q-ENNXT-YAH88
 # VMwareWorkstation 10
 
 * 10.0.7
-  * This version has not been officially released
+  * This version has not been officially released.
 * 10.0.6
   * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-10.0.6-2700073.x86_64.bundle
   * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-10.0.6-2700073.i386.bundle  
@@ -247,7 +248,7 @@ YY5DR-8MF17-0812Q-ENNXT-YAH88
   * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-10.0.0-1295980.x86_64.bundle
   * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-10.0.0-1295980.i386.bundle  
 
-注册码：  
+License Code:   
 [VMwareWorkstation-10-KeyGen.exe](https://github.com/201853910/VMwareWorkstation/releases/download/10.0/VMwareWorkstation-10-KeyGen.exe)  
 0F4JH-80397-DZZ70-W00NK-1AC7Z  
 MF0Y4-8R05K-PZNN0-VH8N2-3AA2C  
@@ -275,7 +276,7 @@ HU4ZJ-F9285-2ZD21-VJ1ZH-C2W18
   * https://download2.vmware.com/software/wkst/VMware-Workstation-Full-9.0.0-812388.x86_64.bundle  
   * https://download2.vmware.com/software/wkst/VMware-Workstation-Full-9.0.0-812388.i386.bundle
 
-注册码：  
+License Code:   
 [VMwareWorkstation-09-KeyGen.exe](https://github.com/201853910/VMwareWorkstation/releases/download/9.0/VMwareWorkstation-09-KeyGen.exe)   
 0V4J3-82K44-YZFD1-4107H-93RQM  
 MF2MK-28KE7-FZTQ9-JACNM-2C8QH  
