@@ -31,7 +31,9 @@ VmwareWorkstation for Linux.
 
 * 17.5.2
   * https://dl.bobpony.com/software/vmware/workstation/linux/VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle
-#### **Starting from version 17.5.2, VMware Workstation Pro is available for free use by individual users.**
+
+### **Starting from version 17.5.2, VMware Workstation Pro is available for free use by individual users. For detailed information, Please [Click Here](https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html)**  
+
 * 17.5.1
   * https://download3.vmware.com/software/WKST-1751-LX/VMware-Workstation-Full-17.5.1-23298084.x86_64.bundle  
 * 17.5.0
