@@ -1,7 +1,7 @@
 请注意:  
-Windows 8.1 仅支持 16.2.5 及之前版本；  
-Windows 7 仅支持 15.5.7 及之前版本；  
-Windows XP 仅支持 10.0.7 及之前版本。
+`Windows 8.1` 最终支持版本为 [`16.2.5`](#vmwareworkstation-16)；  
+`Windows 7` 最终支持版本为 [`15.5.7`](#vmwareworkstation-15)；  
+`Windows XP` 最终支持版本为 [`10.0.7`](#vmwareworkstation-10)。
 
 <hr>
 
@@ -9,7 +9,7 @@ Windows XP 仅支持 10.0.7 及之前版本。
 
 <hr>
 
-**[更新日志请点击此处](https://docs.vmware.com/cn/VMware-Workstation-Pro/index.html)**
+**[VMware Workstation 更新日志请点击此处](https://docs.vmware.com/cn/VMware-Workstation-Pro/index.html)**
 
 <hr>
 
@@ -30,14 +30,13 @@ Windows XP 仅支持 10.0.7 及之前版本。
 * Windows：https://www.vmware.com/go/getworkstation-win
 * Linux：https://www.vmware.com/go/getworkstation-linux  
 
-**若官网直链无法下载，请尝试使用迅雷。**
-
 <hr>
 
 # VMwareWorkstation 17
 
 * 17.5.2
-  * https://dl.bobpony.com/software/vmware/workstation/VMware-workstation-full-17.5.2-23775571.zip  
+  * https://dl.bobpony.com/software/vmware/workstation/VMware-workstation-full-17.5.2-23775571.zip
+#### **自 17.5.2 版本开始，VMware Workstation Pro 将对个人用户免费使用。**
 * 17.5.1
   * https://download3.vmware.com/software/WKST-1751-WIN/VMware-workstation-full-17.5.1-23298084.exe
 * 17.5.0
