@@ -14,7 +14,7 @@
 <hr>
 
 # 目录：
-* [最新版本直链](#最新版本直链)
+* [最新版本](#最新版本)
 * [VMwareWorkstation 17](#vmwareworkstation-17)
 * [VMwareWorkstation 16](#vmwareworkstation-16)
 * [VMwareWorkstation 15](#vmwareworkstation-15)
@@ -25,7 +25,7 @@
 * [VMwareWorkstation 9](#vmwareworkstation-9)
 * [更多旧版](#更多旧版)
 
-# 最新版本直链
+# 最新版本
 **博通官网：https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro**  
 
 <hr>
