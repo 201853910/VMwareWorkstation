@@ -26,9 +26,7 @@
 * [更多旧版](#更多旧版)
 
 # 最新版本直链
-**感谢由[@taozhiyu](https://github.com/taozhiyu)发现的最新版本直链**
-* Windows：https://www.vmware.com/go/getworkstation-win
-* Linux：https://www.vmware.com/go/getworkstation-linux  
+**博通官网：https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro**  
 
 <hr>
 
