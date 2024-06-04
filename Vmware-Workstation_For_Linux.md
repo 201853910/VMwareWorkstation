@@ -21,9 +21,7 @@ VmwareWorkstation for Linux.
 * [More Versions](#more-versions)
 
 # The Last Build
-**Thanks for [@taozhiyu](https://github.com/taozhiyu) find the Download Link.**
-* Windows：https://www.vmware.com/go/getworkstation-win
-* Linux：https://www.vmware.com/go/getworkstation-linux
+**Broadcom Official Website: https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro**  
 
 <hr>
 
