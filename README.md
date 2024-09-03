@@ -32,6 +32,8 @@
 
 # VMwareWorkstation 17
 
+* 17.6.0
+  * 请查看[`GitHub Release`](https://github.com/sertwen/VMwareWorkstation/releases)，并校验文件的哈希值。 
 * 17.5.2
   * https://dl.bobpony.com/software/vmware/workstation/VMware-workstation-full-17.5.2-23775571.zip
 ### **自 17.5.2 版本开始，VMware Workstation Pro 将对个人用户免费使用。详情请 [点击此处](https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html)**
