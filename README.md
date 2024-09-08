@@ -72,7 +72,7 @@ HC4XR-28185-4J8X0-1U3QK-A3RMF
 
 * 16.2.5
   * https://download3.vmware.com/software/WKST-1625-WIN/VMware-workstation-full-16.2.5-20904516.exe  
-  * https://github.com/sertwen/VMwareWorkstation/releases/download/16/VMware-workstation-full-16.2.5-20904516.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.2.5-20904516.exe
 * 16.2.4
   * https://download3.vmware.com/software/WKST-1624-WIN/VMware-workstation-full-16.2.4-20089737.exe
   * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.2.4-20089737.exe
@@ -124,7 +124,7 @@ UC3XK-8DD1J-089NP-MYPXT-QGU80
 
 * 15.5.7
   * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.5.7-17171714.exe  
-  * https://github.com/sertwen/VMwareWorkstation/releases/download/15/VMware-workstation-full-15.5.7-17171714.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/15.0/VMware-workstation-full-15.5.7-17171714.exe
 * 15.5.6
   * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.5.6-16341506.exe
   * https://github.com/201853910/VMwareWorkstation/releases/download/15.0/VMware-workstation-full-15.5.6-16341506.exe
