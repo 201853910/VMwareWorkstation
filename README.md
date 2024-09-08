@@ -26,14 +26,15 @@
 * [更多旧版](#更多旧版)
 
 # 最新版本
-**博通官网：https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro**  
+①博通官网：https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro  
+②VMware CDS Repository： https://softwareupdate.vmware.com/cds/vmw-desktop/ws/  （链接由[743859910](https://github.com/201853910/VMwareWorkstation/issues/20#issue-2509456970)提供）
 
 <hr>
 
 # VMwareWorkstation 17
 
 * 17.6.0
-  * 暂无直链
+  * https://softwareupdate.vmware.com/cds/vmw-desktop/ws/17.6.0/24238078/windows/core/VMware-workstation-17.6.0-24238078.exe.tar
   * https://github.com/sertwen/VMwareWorkstation/releases/download/17/VMware-workstation-full-17.6.0-24238078.exe
 * 17.5.2
   * https://dl.bobpony.com/software/vmware/workstation/VMware-workstation-full-17.5.2-23775571.zip
