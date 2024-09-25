@@ -1,5 +1,4 @@
 **请注意：**  
-`Windows 8.1` 最终支持版本为 [`16.2.5`](#vmwareworkstation-16)；  
 `Windows 7` 最终支持版本为 [`15.5.7`](#vmwareworkstation-15)；  
 `Windows XP` 最终支持版本为 [`10.0.7`](#vmwareworkstation-10)。
 
