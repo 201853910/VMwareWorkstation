@@ -32,12 +32,15 @@
 
 # VMwareWorkstation 17
 
+* 17.6.1
+  * https://softwareupdate.vmware.com/cds/vmw-desktop/ws/17.6.1/24319023/windows/core/VMware-workstation-17.6.1-24319023.exe.tar
+  * https://github.com/Sertwen/VMwareWorkstation-Installation-Package/releases/download/17.x/VMware-workstation-full-17.6.1-24319023.exe
 * 17.6.0
   * https://softwareupdate.vmware.com/cds/vmw-desktop/ws/17.6.0/24238078/windows/core/VMware-workstation-17.6.0-24238078.exe.tar
-  * https://github.com/sertwen/VMwareWorkstation/releases/download/17/VMware-workstation-full-17.6.0-24238078.exe
+  * https://github.com/sertwen/VMwareWorkstation-Installation-Package/releases/download/17.x/VMware-workstation-full-17.6.0-24238078.exe
 * 17.5.2
   * https://dl.bobpony.com/software/vmware/workstation/VMware-workstation-full-17.5.2-23775571.zip
-  * https://github.com/sertwen/VMwareWorkstation/releases/download/17/VMware-workstation-full-17.5.2-23775571.zip
+  * https://github.com/sertwen/VMwareWorkstation-Installation-Package/releases/download/17.x/VMware-workstation-full-17.5.2-23775571.zip
 ### **自 17.5.2 版本开始，VMware Workstation Pro 将对个人用户免费使用。详情请 [点击此处](https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html)**
 * 17.5.1
   * https://download3.vmware.com/software/WKST-1751-WIN/VMware-workstation-full-17.5.1-23298084.exe
