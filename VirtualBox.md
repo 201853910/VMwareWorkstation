@@ -7,10 +7,10 @@
 # 目录：
 * [最新版本](#最新版本)
 * [历史版本](#历史版本)
-* [virtualbox 7.x](#virtualbox-7.x)
-* [virtualbox 6.x](#virtualbox-6.x)
-* [virtualbox 5.x](#virtualbox-5.x)
-* [virtualbox 4.x](#virtualbox-4.x)
+* [VirtualBox 7.x](#virtualbox-7.x)
+* [VirtualBox 6.x](#virtualbox-6.x)
+* [VirtualBox 5.x](#virtualbox-5.x)
+* [VirtualBox 4.x](#virtualbox-4.x)
 
 # 最新版本
 官网：https://www.virtualbox.org/wiki/Downloads
@@ -26,7 +26,7 @@
 
 * 7.1.4
 	* https://download.virtualbox.org/virtualbox/7.1.4/VirtualBox-7.1.4-165100-Win.exe
-* ……
+* **……**
 * 7.0.20
 	* https://download.virtualbox.org/virtualbox/7.0.20/VirtualBox-7.0.20-163906-Win.exe
 
@@ -43,7 +43,7 @@
 
 * 5.2.44
 	* https://download.virtualbox.org/virtualbox/5.2.44/VirtualBox-5.2.44-139111-Win.exe
-* ……
+* **……**
 * 5.2.4
 	* https://download.virtualbox.org/virtualbox/5.2.4/VirtualBox-5.2.4-119785-Win.exe
 
