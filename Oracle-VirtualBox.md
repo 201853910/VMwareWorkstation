@@ -30,6 +30,8 @@
 * 7.0.20
 	* https://download.virtualbox.org/virtualbox/7.0.20/VirtualBox-7.0.20-163906-Win.exe
 
+<br>
+
 # VirtualBox 6.x
 
 * 6.1.50

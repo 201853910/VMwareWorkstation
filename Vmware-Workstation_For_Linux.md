@@ -10,14 +10,14 @@ VmwareWorkstation for Linux.
 
 # Menu：
 * [The Last Build](#the-last-build)
-* [VMwareWorkstation 17](#vmwareworkstation-17)
-* [VMwareWorkstation 16](#vmwareworkstation-16)
-* [VMwareWorkstation 15](#vmwareworkstation-15)
-* [VMwareWorkstation 14](#vmwareworkstation-14)
-* [VMwareWorkstation 12](#vmwareworkstation-12)
-* [VMwareWorkstation 11](#vmwareworkstation-11)
-* [VMwareWorkstation 10](#vmwareworkstation-10)
-* [VMwareWorkstation 9](#vmwareworkstation-9)
+* [VMwareWorkstation 17.x](#vmwareworkstation-17.x)
+* [VMwareWorkstation 16.x](#vmwareworkstation-16.x)
+* [VMwareWorkstation 15.x](#vmwareworkstation-15.x)
+* [VMwareWorkstation 14.x](#vmwareworkstation-14.x)
+* [VMwareWorkstation 12.x](#vmwareworkstation-12.x)
+* [VMwareWorkstation 11.x](#vmwareworkstation-11.x)
+* [VMwareWorkstation 10.x](#vmwareworkstation-10.x)
+* [VMwareWorkstation 9.x](#vmwareworkstation-9.x)
 * [More Versions](#more-versions)
 
 # The Last Build
@@ -26,7 +26,7 @@ VmwareWorkstation for Linux.
 
 <hr>
 
-# VMwareWorkstation 17
+# VMwareWorkstation 17.x
 
 * 17.6.0
   * https://softwareupdate.vmware.com/cds/vmw-desktop/ws/17.6.0/24238078/linux/core/VMware-Workstation-17.6.0-24238078.x86_64.bundle.tar
@@ -56,7 +56,7 @@ HC4XR-28185-4J8X0-1U3QK-A3RMF
 
 <hr>
 
-# VMwareWorkstation 16
+# VMwareWorkstation 16.x
 
 * 16.2.5
   * https://download3.vmware.com/software/WKST-1625-LX/VMware-Workstation-Full-16.2.5-20904516.x86_64.bundle   
@@ -89,7 +89,7 @@ UC3XK-8DD1J-089NP-MYPXT-QGU80
 
 <hr>
 
-# VMwareWorkstation 15
+# VMwareWorkstation 15.x
 
 * 15.5.7
   * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-15.5.7-17171714.x86_64.bundle   
@@ -126,7 +126,7 @@ VZ3EH-4LG4Q-H81YQ-X7Y5G-Q7HF6
 
 <hr>
 
-# VMwareWorkstation 14
+# VMwareWorkstation 14.x
 
 * 14.1.8
   * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-14.1.8-14921873.x86_64.bundle  
@@ -159,7 +159,7 @@ VA74K-0TDD7-H89PP-75PE9-P6HZ2
 
 <hr>
 
-# VMwareWorkstation 12
+# VMwareWorkstation 12.x
 
 * 12.5.9
   * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-12.5.9-7535481.x86_64.bundle  
@@ -200,7 +200,7 @@ ZY7R2-AMY17-488JP-FQXET-Q78E6
 
 <hr>
 
-# VMwareWorkstation 11
+# VMwareWorkstation 11.x
 
 * 11.1.4
   * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-11.1.4-3848939.x86_64.bundle  
@@ -225,7 +225,7 @@ YY5DR-8MF17-0812Q-ENNXT-YAH88
 
 <hr>
 
-# VMwareWorkstation 10
+# VMwareWorkstation 10.x
 
 * 10.0.7
   * This version has not been officially released.
@@ -261,7 +261,7 @@ HU4ZJ-F9285-2ZD21-VJ1ZH-C2W18
 
 <hr>
 
-# VMwareWorkstation 9 
+# VMwareWorkstation 9.x
 
 * 9.0.4
   * https://download2.vmware.com/software/wkst/VMware-Workstation-Full-9.0.4-1945795.x86_64.bundle
