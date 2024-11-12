@@ -1,11 +1,12 @@
+**Starting from version 17.5.2, VMware Workstation Pro is available for free to personal users. For detailed information, Please [Click Here](https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html)**  
+**Starting from November 11, 2024, VMware Workstation Pro is available for free to all users. For details information, Please [Click Here](https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/)**  
+<hr>
+
 VmwareWorkstation for Linux.  
-**[Windows Version Please Click Here](README.md)**
-
-
+**[Windows Version Please Click Here](README.md)**  
 <hr>
 
 **[VmwawreWorkstation Updatelog](https://docs.vmware.com/en/VMware-Workstation-Pro/index.html)**  
-
 <hr>
 
 # Menu：
@@ -28,21 +29,20 @@ VmwareWorkstation for Linux.
 
 # VMwareWorkstation 17.x
 
+* 17.6.1
+  * https://softwareupdate.vmware.com/cds/vmw-desktop/ws/17.6.1/24319023/linux/core/VMware-Workstation-17.6.1-24319023.x86_64.bundle.tar
 * 17.6.0
   * https://softwareupdate.vmware.com/cds/vmw-desktop/ws/17.6.0/24238078/linux/core/VMware-Workstation-17.6.0-24238078.x86_64.bundle.tar
 * 17.5.2
-  * https://dl.bobpony.com/software/vmware/workstation/linux/VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle
-
-### **Starting from version 17.5.2, VMware Workstation Pro is available for free use by individual users. For detailed information, Please [Click Here](https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html)**  
-
+  * https://softwareupdate.vmware.com/cds/vmw-desktop/ws/17.5.2/23775571/linux/core/VMware-Workstation-17.5.2-23775571.x86_64.bundle.tar
 * 17.5.1
-  * https://download3.vmware.com/software/WKST-1751-LX/VMware-Workstation-Full-17.5.1-23298084.x86_64.bundle  
+  * https://download3.vmware.com/software/WKST-1751-LX/VMware-Workstation-Full-17.5.1-23298084.x86_64.bundle
 * 17.5.0
-  * https://download3.vmware.com/software/WKST-1750-LX/VMware-Workstation-Full-17.5.0-22583795.x86_64.bundle  
+  * https://download3.vmware.com/software/WKST-1750-LX/VMware-Workstation-Full-17.5.0-22583795.x86_64.bundle
 * 17.0.2
-  * https://download3.vmware.com/software/WKST-1702-LX/VMware-Workstation-Full-17.0.2-21581411.x86_64.bundle 
+  * https://download3.vmware.com/software/WKST-1702-LX/VMware-Workstation-Full-17.0.2-21581411.x86_64.bundle
 * 17.0.1
-  * https://download3.vmware.com/software/WKST-1701-LX/VMware-workstation-full-17.0.1-21139696.x86_64.bundle  
+  * https://download3.vmware.com/software/WKST-1701-LX/VMware-workstation-full-17.0.1-21139696.x86_64.bundle
 * 17.0.0
   * https://download3.vmware.com/software/WKST-1700-LX/VMware-Workstation-Full-17.0.0-20800274.x86_64.bundle
 

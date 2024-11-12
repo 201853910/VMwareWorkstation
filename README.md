@@ -1,15 +1,14 @@
 **请注意：**  
 `Windows 7` 最终支持版本为 [`15.5.7`](#vmwareworkstation-15)；  
-`Windows XP`与`32位操作系统` 最终支持版本为 [`10.0.7`](#vmwareworkstation-10)。
-
+`Windows XP`与`32位操作系统` 最终支持版本为 [`10.0.7`](#vmwareworkstation-10)。  
+**自2024年11月11日开始，VMware Workstation Pro 将免费供所有用户使用。详情请 [点击此处](https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/)**  
+**自 17.5.2 版本开始，VMware Workstation Pro 将免费供个人用户使用。详情请 [点击此处](https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html)**  
 <hr>
 
 **[Linux 版本请点击此处](Vmware-Workstation_For_Linux.md)**  
-
 <hr>
 
 **[VMware Workstation 更新日志请点击此处](https://docs.vmware.com/cn/VMware-Workstation-Pro/index.html)**
-
 <hr>
 
 # 目录：
@@ -41,7 +40,6 @@
 * 17.5.2
   * https://dl.bobpony.com/software/vmware/workstation/VMware-workstation-full-17.5.2-23775571.zip
   * https://github.com/sertwen/VMwareWorkstation-Installation-Package/releases/download/17.x/VMware-workstation-full-17.5.2-23775571.zip
-### **自 17.5.2 版本开始，VMware Workstation Pro 将对个人用户免费使用。详情请 [点击此处](https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html)**
 * 17.5.1
   * https://download3.vmware.com/software/WKST-1751-WIN/VMware-workstation-full-17.5.1-23298084.exe
   * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-workstation-full-17.5.1-23298084.exe
