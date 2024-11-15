@@ -1,5 +1,5 @@
-**Starting from version 17.5.2, VMware Workstation Pro is available for free to personal users. For detailed information, Please [Click Here](https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html)**  
-**Starting from November 11, 2024, VMware Workstation Pro is available for free to all users. For details information, Please [Click Here](https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/)**  
+**Starting from May 14, 2024, version 17.5.2, VMware Workstation Pro is available for free to personal users. For detailed information, Please [Click Here](https://blogs.vmware.com/cloud-foundation/2024/05/14/vmware-desktop-hypervisor-pro-apps-now-available-for-personal-use/)**  
+**Starting from November 11, 2024, version ?, VMware Workstation Pro is available for free to all users. For details information, Please [Click Here](https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/)**  
 <hr>
 
 VmwareWorkstation for Linux.  
@@ -23,7 +23,7 @@ VmwareWorkstation for Linux.
 
 # The Last Build
 ①Broadcom Official Website: https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro  
-②VMware CDS Repository： https://softwareupdate.vmware.com/cds/vmw-desktop/ws/  （Link provided by [743859910](https://github.com/201853910/VMwareWorkstation/issues/20#issue-2509456970)）
+②VMware CDS Repository： https://softwareupdate.vmware.com/cds/vmw-desktop/ws/  （Link provided by [743859910](https://github.com/201853910/VMwareWorkstation/issues/20#issue-2509456970), This version does not include ``VMware Tools`）
 
 <hr>
 
