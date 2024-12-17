@@ -1,5 +1,5 @@
 **Starting from May 14, 2024, version 17.5.2, VMware Workstation Pro is available for free to personal users. For detailed information, Please [Click Here](https://blogs.vmware.com/cloud-foundation/2024/05/14/vmware-desktop-hypervisor-pro-apps-now-available-for-personal-use/)**  
-**Starting from November 11, 2024, version ?, VMware Workstation Pro is available for free to all users. For details information, Please [Click Here](https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/)**  
+**Starting from November 11, 2024, version 17.6.2, VMware Workstation Pro is available for free to all users. For details information, Please [Click Here](https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/)**
 <hr>
 
 VmwareWorkstation for Linux.  
@@ -29,6 +29,8 @@ VmwareWorkstation for Linux.
 
 # VMwareWorkstation 17.x
 
+* 17.6.2
+  * https://softwareupdate.vmware.com/cds/vmw-desktop/ws/17.6.2/24409262/linux/core/VMware-Workstation-17.6.2-24409262.x86_64.bundle.tar
 * 17.6.1
   * https://softwareupdate.vmware.com/cds/vmw-desktop/ws/17.6.1/24319023/linux/core/VMware-Workstation-17.6.1-24319023.x86_64.bundle.tar
 * 17.6.0
@@ -94,7 +96,7 @@ UC3XK-8DD1J-089NP-MYPXT-QGU80
 * 15.5.7
   * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-15.5.7-17171714.x86_64.bundle   
 * 15.5.6
-  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-15.5.6-16341506.x86_64.bundle
+  * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-15.5.6-16341506.x86_64.bundle  
 * 15.5.5
   * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-15.5.5-16285975.x86_64.bundle  
 * 15.5.2
@@ -228,7 +230,7 @@ YY5DR-8MF17-0812Q-ENNXT-YAH88
 # VMwareWorkstation 10.x
 
 * 10.0.7
-  * This version has not been officially released.
+  * This version has not been officially released.  
 * 10.0.6
   * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-10.0.6-2700073.x86_64.bundle
   * https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-10.0.6-2700073.i386.bundle  
@@ -276,8 +278,8 @@ HU4ZJ-F9285-2ZD21-VJ1ZH-C2W18
   * https://download2.vmware.com/software/wkst/VMware-Workstation-Full-9.0.1-894247.x86_64.bundle
   * https://download2.vmware.com/software/wkst/VMware-Workstation-Full-9.0.1-894247.i386.bundle  
 * 9.0.0
-  * https://download2.vmware.com/software/wkst/VMware-Workstation-Full-9.0.0-812388.x86_64.bundle  
-  * https://download2.vmware.com/software/wkst/VMware-Workstation-Full-9.0.0-812388.i386.bundle
+  * https://download2.vmware.com/software/wkst/VMware-Workstation-Full-9.0.0-812388.x86_64.bundle 
+  * https://download2.vmware.com/software/wkst/VMware-Workstation-Full-9.0.0-812388.i386.bundle  
 
 License Code:   
 [VMwareWorkstation-09-KeyGen.exe](https://github.com/201853910/VMwareWorkstation/releases/download/9.0/VMwareWorkstation-09-KeyGen.exe)   
@@ -287,7 +289,7 @@ MF2MK-28KE7-FZTQ9-JACNM-2C8QH
 NG2U6-0J01J-3ZWE8-Q11N2-CAW4H  
 1Y2DR-8Z240-NZC30-DLA56-2CAHT  
 
-<hr>  
+<hr>
 
 # More Versions
 

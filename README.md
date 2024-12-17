@@ -2,7 +2,7 @@
 `Windows 7` 最终支持版本为 [`15.5.7`](#vmwareworkstation-15)；  
 `Windows XP`与`32位操作系统` 最终支持版本为 [`10.0.7`](#vmwareworkstation-10)。  
 **自2024年5月14日、版本 17.5.2 开始，VMware Workstation Pro 将免费供个人用户使用。详情请 [点击此处](https://blogs.vmware.com/cloud-foundation/2024/05/14/vmware-desktop-hypervisor-pro-apps-now-available-for-personal-use/)**  
-**自2024年11月11日、版本 ？ 开始，VMware Workstation Pro 将免费供所有用户使用。详情请 [点击此处](https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/)**  
+**自2024年11月11日、版本 17.6.2 开始，VMware Workstation Pro 将免费供所有用户使用。详情请 [点击此处](https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/)**
 <hr>
 
 **[Linux 版本请点击此处](Vmware-Workstation_For_Linux.md)**  
@@ -31,15 +31,18 @@
 
 # VMwareWorkstation 17.x
 
+* 17.6.2
+  * https://softwareupdate.vmware.com/cds/vmw-desktop/ws/17.6.2/24409262/windows/core/VMware-workstation-17.6.2-24409262.exe.tar
+  * https://github.com/Sertwen/VMwareWorkstation/releases/download/17.x/VMware-workstation-full-17.6.2-24409262.exe
 * 17.6.1
   * https://softwareupdate.vmware.com/cds/vmw-desktop/ws/17.6.1/24319023/windows/core/VMware-workstation-17.6.1-24319023.exe.tar
-  * https://github.com/Sertwen/VMwareWorkstation-Installation-Package/releases/download/17.x/VMware-workstation-full-17.6.1-24319023.exe
+  * https://github.com/Sertwen/VMwareWorkstation/releases/download/17.x/VMware-workstation-full-17.6.1-24319023.exe
 * 17.6.0
   * https://softwareupdate.vmware.com/cds/vmw-desktop/ws/17.6.0/24238078/windows/core/VMware-workstation-17.6.0-24238078.exe.tar
-  * https://github.com/sertwen/VMwareWorkstation-Installation-Package/releases/download/17.x/VMware-workstation-full-17.6.0-24238078.exe
+  * https://github.com/Sertwen/VMwareWorkstation/releases/download/17.x/VMware-workstation-full-17.6.0-24238078.exe
 * 17.5.2
   * https://softwareupdate.vmware.com/cds/vmw-desktop/ws/17.5.2/23775571/windows/core/VMware-workstation-17.5.2-23775571.exe.tar
-  * https://github.com/sertwen/VMwareWorkstation-Installation-Package/releases/download/17.x/VMware-workstation-full-17.5.2-23775571.exe
+  * https://github.com/Sertwen/VMwareWorkstation/releases/download/17.x/VMware-workstation-full-17.5.2-23775571.exe
 * 17.5.1
   * https://download3.vmware.com/software/WKST-1751-WIN/VMware-workstation-full-17.5.1-23298084.exe
   * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-workstation-full-17.5.1-23298084.exe
