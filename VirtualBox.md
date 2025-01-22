@@ -1,6 +1,6 @@
 **请注意：**  
-`Windows 7` 最终支持版本为 [`7.0.20`](#virtualbox-7)；  
-`Windows XP`与`32位操作系统` 最终支持版本为 [`5.2.44`](#virtualbox-5)。
+`Windows 7` 最终支持版本为 [`7.0.20`](#virtualbox-7.x)；  
+`Windows XP`与`32位操作系统` 最终支持版本为 [`5.2.44`](#virtualbox-5.x)。  
 
 <hr>
 
@@ -24,8 +24,8 @@
 
 # VirtualBox 7.x
 
-* 7.1.4
-	* https://download.virtualbox.org/virtualbox/7.1.4/VirtualBox-7.1.4-165100-Win.exe
+* 7.1.6
+	* https://download.virtualbox.org/virtualbox/7.1.4/VirtualBox-7.1.6-167084-Win.exe
 * **……**
 * 7.0.20
 	* https://download.virtualbox.org/virtualbox/7.0.20/VirtualBox-7.0.20-163906-Win.exe
