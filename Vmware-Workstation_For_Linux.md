@@ -22,13 +22,15 @@ VmwareWorkstation for Linux.
 * [More Versions](#more-versions)
 
 # The Last Build
-①Broadcom Official Website: https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro  
-②VMware CDS Repository： https://softwareupdate.vmware.com/cds/vmw-desktop/ws/  （Link provided by [743859910](https://github.com/201853910/VMwareWorkstation/issues/20#issue-2509456970), This version does not include ``VMware Tools`）
+①Broadcom Official Website (Need login Broadcom account): https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true  
+②VMware CDS Repository (No login required)： https://softwareupdate.vmware.com/cds/vmw-desktop/ws/  （Link provided by [743859910](https://github.com/201853910/VMwareWorkstation/issues/20#issue-2509456970), This version does not include ``VMware Tools`）
 
 <hr>
 
 # VMwareWorkstation 17.x
 
+* 17.6.3
+  * https://softwareupdate.vmware.com/cds/vmw-desktop/ws/17.6.3/24583834/linux/core/VMware-Workstation-17.6.3-24583834.x86_64.bundle.tar
 * 17.6.2
   * https://softwareupdate.vmware.com/cds/vmw-desktop/ws/17.6.2/24409262/linux/core/VMware-Workstation-17.6.2-24409262.x86_64.bundle.tar
 * 17.6.1
