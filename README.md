@@ -11,7 +11,7 @@
 **[VMware Workstation 更新日志请点击此处](https://docs.vmware.com/cn/VMware-Workstation-Pro/index.html)**
 <hr>
 
-# 目录：
+# 目录
 * [最新版本](#最新版本)
 * [VMwareWorkstation 17.x](#vmwareworkstation-17.x)
 * [VMwareWorkstation 16.x](#vmwareworkstation-16.x)
