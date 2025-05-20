@@ -1,33 +1,68 @@
-目录：
-* [最新版本直链](#最新版本直链)
-* [VMwareWorkstation 17](#vmwareworkstation-17)
-* [VMwareWorkstation 16](#vmwareworkstation-16)
-* [VMwareWorkstation 15](#vmwareworkstation-15)
-* [VMwareWorkstation 14](#vmwareworkstation-14)
-* [VMwareWorkstation 12](#vmwareworkstation-12)
-* [VMwareWorkstation 11](#vmwareworkstation-11)
-* [VMwareWorkstation 10](#vmwareworkstation-10)
-* [VMwareWorkstation 9](#vmwareworkstation-9)
+**请注意：**  
+`Windows 7` 最终支持版本为 [`15.5.7`](#vmwareworkstation-15)；  
+`Windows XP`与`32位操作系统` 最终支持版本为 [`10.0.7`](#vmwareworkstation-10)。  
+**自2024年5月14日、版本 17.5.2 开始，VMware Workstation Pro 将免费供个人用户使用。详情请 [点击此处](https://blogs.vmware.com/cloud-foundation/2024/05/14/vmware-desktop-hypervisor-pro-apps-now-available-for-personal-use/)**  
+**自2024年11月11日、版本 17.6.2 开始，VMware Workstation Pro 将免费供所有用户使用。详情请 [点击此处](https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/)**
+<hr>
 
-# 最新版本直链
-**感谢由[@taozhiyu](https://github.com/taozhiyu)发现的最新版本直链**
-* Windows：https://www.vmware.com/go/getworkstation-win
-* Linux：https://www.vmware.com/go/getworkstation-linux
+**[Linux 版本请点击此处](Vmware-Workstation_For_Linux.md)**  
+<hr>
+
+**[VMware Workstation 更新日志请点击此处](https://docs.vmware.com/cn/VMware-Workstation-Pro/index.html)**
+<hr>
+
+# 目录
+* [最新版本](#最新版本)
+* [VMwareWorkstation 17.x](#vmwareworkstation-17.x)
+* [VMwareWorkstation 16.x](#vmwareworkstation-16.x)
+* [VMwareWorkstation 15.x](#vmwareworkstation-15.x)
+* [VMwareWorkstation 14.x](#vmwareworkstation-14.x)
+* [VMwareWorkstation 12.x](#vmwareworkstation-12.x)
+* [VMwareWorkstation 11.x](#vmwareworkstation-11.x)
+* [VMwareWorkstation 10.x](#vmwareworkstation-10.x)
+* [VMwareWorkstation 9.x](#vmwareworkstation-9.x)
+* [更多旧版](#更多旧版)
+
+# 最新版本
+①博通官网（需要登录博通账号）：https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true  
+②VMware CDS Repository（无需登录，链接由[743859910](https://github.com/201853910/VMwareWorkstation/issues/20#issue-2509456970)提供, **`此版本未内置【Vmware Tools】`**）： https://softwareupdate.vmware.com/cds/vmw-desktop/ws/  
 
 <hr>
 
-# VMwareWorkstation 17
+# VMwareWorkstation 17.x
+
+* 17.6.3
+  * https://softwareupdate.vmware.com/cds/vmw-desktop/ws/17.6.3/24583834/windows/core/VMware-workstation-17.6.3-24583834.exe.tar
+  * https://github.com/Sertwen/VMwareWorkstation/releases/download/17.x/VMware-workstation-full-17.6.3-24583834.exe
+* 17.6.2
+  * https://softwareupdate.vmware.com/cds/vmw-desktop/ws/17.6.2/24409262/windows/core/VMware-workstation-17.6.2-24409262.exe.tar
+  * https://github.com/Sertwen/VMwareWorkstation/releases/download/17.x/VMware-workstation-full-17.6.2-24409262.exe
+* 17.6.1
+  * https://softwareupdate.vmware.com/cds/vmw-desktop/ws/17.6.1/24319023/windows/core/VMware-workstation-17.6.1-24319023.exe.tar
+  * https://github.com/Sertwen/VMwareWorkstation/releases/download/17.x/VMware-workstation-full-17.6.1-24319023.exe
+* 17.6.0
+  * https://softwareupdate.vmware.com/cds/vmw-desktop/ws/17.6.0/24238078/windows/core/VMware-workstation-17.6.0-24238078.exe.tar
+  * https://github.com/Sertwen/VMwareWorkstation/releases/download/17.x/VMware-workstation-full-17.6.0-24238078.exe
+* 17.5.2
+  * https://softwareupdate.vmware.com/cds/vmw-desktop/ws/17.5.2/23775571/windows/core/VMware-workstation-17.5.2-23775571.exe.tar
+  * https://github.com/Sertwen/VMwareWorkstation/releases/download/17.x/VMware-workstation-full-17.5.2-23775571.exe
+* 17.5.1
+  * https://download3.vmware.com/software/WKST-1751-WIN/VMware-workstation-full-17.5.1-23298084.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-workstation-full-17.5.1-23298084.exe
+* 17.5.0
+  * https://download3.vmware.com/software/WKST-1750-WIN/VMware-workstation-full-17.5.0-22583795.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-workstation-full-17.5.0-22583795.exe
 * 17.0.2
   * https://download3.vmware.com/software/WKST-1702-WIN/VMware-workstation-full-17.0.2-21581411.exe
   * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-workstation-full-17.0.2-21581411.exe
   * ed2k://|file|VMware-workstation-full-17.0.2-21581411.exe|637215584|1954A31E4CA1E367C7D547A60A3512E9|/
 * 17.0.1
   * https://download3.vmware.com/software/WKST-1701-WIN/VMware-workstation-full-17.0.1-21139696.exe
-  * https://github.cdnweb.icu/201853910/VMwareWorkstation/releases/download/17.0/VMware-workstation-full-17.0.1-21139696.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-workstation-full-17.0.1-21139696.exe
   * ed2k://|file|VMware-workstation-full-17.0.1-21139696.exe|637236064|4C231FFCB132DC3AF18DC440570169BF|/
 * 17.0.0
   * https://download3.vmware.com/software/WKST-1700-WIN/VMware-workstation-full-17.0.0-20800274.exe
-  * https://download3.vmware.com/software/WKST-1700-WIN/VMware-workstation-full-17.0.0-20800274.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-workstation-full-17.0.0-20800274.exe
   * ed2k://|file|VMware-workstation-full-17.0.0-20800274.exe|637409472|97AE75FAA85A0745E961FB7A79FE1CA4|/
 
 注册码：  
@@ -40,8 +75,11 @@ HC4XR-28185-4J8X0-1U3QK-A3RMF
 
 <hr>
 
-# VMwareWorkstation 16
+# VMwareWorkstation 16.x
 
+* 16.2.5
+  * https://download3.vmware.com/software/WKST-1625-WIN/VMware-workstation-full-16.2.5-20904516.exe  
+  * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.2.5-20904516.exe
 * 16.2.4
   * https://download3.vmware.com/software/WKST-1624-WIN/VMware-workstation-full-16.2.4-20089737.exe
   * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.2.4-20089737.exe
@@ -89,8 +127,11 @@ UC3XK-8DD1J-089NP-MYPXT-QGU80
 
 <hr>
 
-# VMwareWorkstation 15
+# VMwareWorkstation 15.x
 
+* 15.5.7
+  * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.5.7-17171714.exe  
+  * https://github.com/201853910/VMwareWorkstation/releases/download/15.0/VMware-workstation-full-15.5.7-17171714.exe
 * 15.5.6
   * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.5.6-16341506.exe
   * https://github.com/201853910/VMwareWorkstation/releases/download/15.0/VMware-workstation-full-15.5.6-16341506.exe
@@ -146,7 +187,7 @@ VZ3EH-4LG4Q-H81YQ-X7Y5G-Q7HF6
 
 <hr>
 
-# VMwareWorkstation 14
+# VMwareWorkstation 14.x
 
 * 14.1.8
   * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.8-14921873.exe
@@ -199,7 +240,7 @@ VA74K-0TDD7-H89PP-75PE9-P6HZ2
 
 <hr>
 
-# VMwareWorkstation 12
+# VMwareWorkstation 12.x
 
 * 12.5.9
   * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.9-7535481.exe
@@ -268,7 +309,7 @@ ZY7R2-AMY17-488JP-FQXET-Q78E6
 
 <hr>
 
-# VMwareWorkstation 11
+# VMwareWorkstation 11.x
 
 * 11.1.4
   * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-11.1.4-3848939.exe
@@ -305,7 +346,7 @@ YY5DR-8MF17-0812Q-ENNXT-YAH88
 
 <hr>
 
-# VMwareWorkstation 10
+# VMwareWorkstation 10.x
 
 * 10.0.7
   * https://download3.vmware.com/software/wkst/file/VMware-workstation-full-10.0.7-2844087.exe
@@ -350,7 +391,7 @@ HU4ZJ-F9285-2ZD21-VJ1ZH-C2W18
 
 <hr>
 
-# VMwareWorkstation 9 
+# VMwareWorkstation 9.x
 
 * 9.0.4
   * https://download2.vmware.com/software/wkst/VMware-workstation-full-9.0.4-1945795.exe
@@ -380,3 +421,8 @@ MF2MK-28KE7-FZTQ9-JACNM-2C8QH
 5A0PH-AY103-NZ3C1-ML0N4-02DME  
 NG2U6-0J01J-3ZWE8-Q11N2-CAW4H  
 1Y2DR-8Z240-NZC30-DLA56-2CAHT  
+
+<hr>  
+
+# 更多旧版
+更多旧版本请访问 https://archive.org/download/vmware-workstation-4.53-to-16.1
