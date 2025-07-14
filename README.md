@@ -33,14 +33,29 @@
 
 # VMwareWorkstation 17
 * 17.6.3
+  * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-workstation-full-17.6.3-24583834.exe
+  * 
+  * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-workstation-full-17.6.3-24583834.x86_64.bundle
   * 
 * 17.6.2
+  * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-workstation-full-17.6.2-24409262.exe
+  * 
+  * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-workstation-full-17.6.2-24409262.x86_64.bundle
   * 
 * 17.6.1
+  * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-workstation-full-17.6.1-24319023.exe
+  * 
+  * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-workstation-full-17.6.1-24319023.x86_64.bundle
   * 
 * 17.6.0
+  * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-Workstation-Full-17.6.0-24238078.exe
+  * 
+  * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-Workstation-Full-17.6.0-24238078.x86_64.bundle
   * 
 * 17.5.2
+  * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-workstation-full-17.5.2-23775571.exe
+  * 
+  * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-workstation-full-17.5.2-23775571.x86_64.bundle
   * 
 * 17.5.1
   * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-workstation-full-17.5.1-23298084.exe
