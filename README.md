@@ -32,18 +32,41 @@
 <hr>
 
 # VMwareWorkstation 17
-* 17.0.2
+* 17.6.3
   * 
+* 17.6.2
+  * 
+* 17.6.1
+  * 
+* 17.6.0
+  * 
+* 17.5.2
+  * 
+* 17.5.1
+  * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-workstation-full-17.5.1-23298084.exe
+  * 
+  * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-Workstation-Full-17.5.1-23298084.x86_64.bundle
+  * 
+* 17.5.0
+  * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-workstation-full-17.5.0-22583795.exe
+  * 
+  * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-Workstation-Full-17.5.0-22583795.x86_64.bundle
+  * 
+* 17.0.2
   * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-workstation-full-17.0.2-21581411.exe
   * ed2k://|file|VMware-workstation-full-17.0.2-21581411.exe|637215584|1954A31E4CA1E367C7D547A60A3512E9|/
+  * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-Workstation-Full-17.0.2-21581411.x86_64.bundle
+  * 
 * 17.0.1
-  * 
-  * https://github.cdnweb.icu/201853910/VMwareWorkstation/releases/download/17.0/VMware-workstation-full-17.0.1-21139696.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-workstation-full-17.0.1-21139696.exe
   * ed2k://|file|VMware-workstation-full-17.0.1-21139696.exe|637236064|4C231FFCB132DC3AF18DC440570169BF|/
+  * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-Workstation-Full-17.0.1-21139696.x86_64.bundle
+  * 
 * 17.0.0
-  * 
-  * 
+  * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-workstation-full-17.0.0-20800274.exe
   * ed2k://|file|VMware-workstation-full-17.0.0-20800274.exe|637409472|97AE75FAA85A0745E961FB7A79FE1CA4|/
+  * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-Workstation-Full-17.0.0-20800274.x86_64.bundle
+  * 
 
 注册码：  
 [VMwareWorkstation-17-KeyGen.exe](https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMwareWorkstation-17-KeyGen.exe)  
@@ -56,43 +79,56 @@ HC4XR-28185-4J8X0-1U3QK-A3RMF
 <hr>
 
 # VMwareWorkstation 16
-
-* 16.2.4
+* 16.2.5
+  * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.2.5-20904516.exe
   * 
+  * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-Workstation-Full-16.2.5-20904516.x86_64.bundle
+  * 
+* 16.2.4
   * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.2.4-20089737.exe
   * ed2k://|file|VMware-workstation-full-16.2.4-20089737.exe|645480520|B8CD29E441892E67E53C148CC4672DE2|/
-* 16.2.3
+  * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-Workstation-Full-16.2.4-20089737.x86_64.bundle
   * 
+* 16.2.3
   * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.2.3-19376536.exe
   * ed2k://|file|VMware-workstation-full-16.2.3-19376536.exe|645323272|BC84031F29163B373042966355F1C959|/
-* 16.2.2
+  * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-Workstation-Full-16.2.3-19376536.x86_64.bundle
   * 
+* 16.2.2
   * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.2.2-19200509.exe
   * ed2k://|file|VMware-workstation-full-16.2.2-19200509.exe|645319168|2B1CCD99615B36A2969AFD4913BB8C42|/
-* 16.2.1
+  * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.2.2-19200509.x86_64.bundle
   * 
+* 16.2.1
   * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.2.1-18811642.exe
   * ed2k://|file|VMware-workstation-full-16.2.1-18811642.exe|645437960|342B725B10289D32343E980159E8EF50|/
-* 16.2.0
+  * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.2.1-18811642.x86_64.bundle
   * 
+* 16.2.0
   * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.2.0-18760230.exe
   * ed2k://|file|VMware-workstation-full-16.2.0-18760230.exe|645396992|2BAB4B10BC48BC651D8A3A0C7974BE98|/
-* 16.1.2
+  * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.2.0-18760230.x86_64.bundle
   * 
+* 16.1.2
   * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.1.2-17966106.exe
   * ed2k://|file|VMware-workstation-full-16.1.2-17966106.exe|651468992|A5E865E9397EF7469E8C363AA68C407F|/
-* 16.1.1
+  * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.1.2-17966106.x86_64.bundle
   * 
+* 16.1.1
   * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.1.1-17801498.exe
   * ed2k://|file|VMware-workstation-full-16.1.1-17801498.exe|651672920|13E4D507816EA18905FA950E01F95247|/
-* 16.1.0
+  * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.1.1-17801498.x86_64.bundle
   * 
+* 16.1.0
   * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.1.0-17198959.exe
   * ed2k://|file|VMware-workstation-full-16.1.0-17198959.exe|651740808|3ABDBCB5CF0608D14E0B33A287AFC2DE|/
-* 16.0.0
+  * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.1.0-17198959.x86_64.bundle
   * 
+* 16.0.0
   * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.0.0-16894299.exe
   * ed2k://|file|VMware-workstation-full-16.0.0-16894299.exe|649336112|AF7226741F984D1CFE05388761D25526|/
+  * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.0.0-16894299.x86_64.bundle
+  * 
 
 注册码：  
 [VMwareWorkstation-16-KeyGen.exe](https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMwareWorkstation-16-KeyGen.exe)  
