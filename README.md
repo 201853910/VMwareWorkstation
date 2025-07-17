@@ -1,7 +1,7 @@
 **请注意：**  
 `Windows 7` 最终支持版本为 [`15.5.7`](#vmwareworkstation-15)；  
 `Windows XP`与`32位操作系统` 最终支持版本为 [`10.0.7`](#vmwareworkstation-10)。  
-**自2024年5月14日、版本 17.5.2 开始，VMware Workstation Pro 将免费供个人用户使用。详情请 [点击此处](https://blogs.vmware.com/cloud-foundation/2024/05/14/vmware-desktop-hypervisor-pro-apps-now-available-for-personal-use/)**  
+**自2024年5月14日、版本 17.5.2 开始，VMware Workstation Pro 将免费供个人用户使用。详情请 [点击此处](https://blogs.vmware.com/cloud-foundation/2024/05/13/vmware-workstation-pro-now-available-free-for-personal-use/)**  
 **自2024年11月11日、版本 17.6.2 开始，VMware Workstation Pro 将免费供所有用户使用。详情请 [点击此处](https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/)**
 <hr>
 
