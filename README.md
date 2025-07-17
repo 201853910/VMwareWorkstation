@@ -24,8 +24,8 @@
 * [更多旧版](#更多旧版)
 
 # 最新版本
-① 博通官网（需要登录博通账号）：https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true  
-② **`链接已失效`** ~~VMware CDS Repository（无需登录，链接由[743859910](https://github.com/201853910/VMwareWorkstation/issues/20#issue-2509456970)提供, **`此版本未内置【Vmware Tools】`**）： https://softwareupdate.vmware.com/cds/vmw-desktop/ws/~~
+(1) 博通官网（需要登录博通账号）：https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true  
+(2) **`链接已失效`** ~~VMware CDS Repository（无需登录，链接由[743859910](https://github.com/201853910/VMwareWorkstation/issues/20#issue-2509456970)提供, **`此版本未内置【Vmware Tools】`**）： https://softwareupdate.vmware.com/cds/vmw-desktop/ws/~~
 
 <hr>
 
