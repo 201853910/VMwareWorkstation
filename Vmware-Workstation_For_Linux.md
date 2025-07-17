@@ -1,4 +1,4 @@
-**Starting from May 14, 2024, version 17.5.2, VMware Workstation Pro is available for free to personal users. For detailed information, Please [Click Here](https://blogs.vmware.com/cloud-foundation/2024/05/14/vmware-desktop-hypervisor-pro-apps-now-available-for-personal-use/)**  
+**Starting from May 14, 2024, version 17.5.2, VMware Workstation Pro is available for free to personal users. For details information, Please [Click Here](https://blogs.vmware.com/cloud-foundation/2024/05/13/vmware-workstation-pro-now-available-free-for-personal-use/)**  
 **Starting from November 11, 2024, version 17.6.2, VMware Workstation Pro is available for free to all users. For details information, Please [Click Here](https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/)**
 <hr>
 
