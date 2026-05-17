@@ -9,6 +9,7 @@
 # 目录：
 * [链接说明](#链接说明)
 * [官网获取方法](#官网获取方法)
+* [VMwareWorkstation 26H1](#vmwareworkstation-26H1)
 * [VMwareWorkstation 25H2](#vmwareworkstation-25H2)
 * [VMwareWorkstation 17](#vmwareworkstation-17)
 * [VMwareWorkstation 16](#vmwareworkstation-16)
@@ -30,6 +31,13 @@
 2. 注册或登录账号，下载即可。
 
 <hr>
+
+# VMwareWorkstation 26H1
+* 26H1 
+  * https://github.com/201853910/VMwareWorkstation/releases/download/26H1/VMware-Workstation-Full-26H1-25388281.exe
+  * 
+  * https://github.com/201853910/VMwareWorkstation/releases/download/26H1/VMware-Workstation-Full-26H1-25388281.x86_64.bundle
+  * 
 
 # VMwareWorkstation 25H2
 * 25H2u1
